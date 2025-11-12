@@ -1,0 +1,4530 @@
+[
+  {
+    "id": 1,
+    "type": "single",
+    "question": "光伏发电系统无功补偿容量的计算应充分分析逆变器功率因数、汇集线路、（ ）和送出线路的无功损耗等因素",
+    "options": ["变压器", "逆变器", "输入线路", "有功损耗"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "type": "single",
+    "question": "在短时间内以较高的速度作用于零件上的载荷称为（）载荷",
+    "options": ["静", "冲击", "交变", "线性"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "type": "single",
+    "question": "（）都是硬而脆的相",
+    "options": ["贝氏体", "奥氏体", "马氏体", "渗碳体"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "type": "single",
+    "question": "下列（）是用于多CPU的计算机系统，并具有并行处理的功能",
+    "options": ["网络操作系统", "实时操作系统", "多重处理操作系统", "多重程序作业"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "type": "single",
+    "question": "正常运行时，光伏系统和电网接口处三相电压的允许偏差为额定电压的（）",
+    "options": ["±3%", "±5%", "±7%", "±10%"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "type": "single",
+    "question": "只需调整或更换夹具上个别定位元件或夹紧元件，就可用于装夹不同类型和尺寸的工件，这类夹具称为（）",
+    "options": ["通用夹具", "专用夹具", "可调夹具", "组合夹具"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "type": "single",
+    "question": "工艺系统的组成部分不包括（）",
+    "options": ["机床", "夹具", "刀具", "量具"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "type": "single",
+    "question": "计算机病毒是一种（）",
+    "options": ["特殊的计算机部件", "特殊的生物病毒", "游戏软件", "人为编制的特殊的计算机程序"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "type": "single",
+    "question": "调质工序一般不安排在（）工之前",
+    "options": ["粗加工", "半精加工", "精加工", "以上都不是"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "type": "single",
+    "question": "接触器的通断能力应当是（）",
+    "options": ["能切断和通过短路电流", "不能切断和通过短路电流", "不能切断短路电流，能通过短路电流", "能切断短路电流不能通过短路电流"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "type": "single",
+    "question": "光伏组件之间的直流电缆宜采用（）敷设方式",
+    "options": ["电缆桥架", "隧道", "电缆沟", "穿管直埋"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "type": "single",
+    "question": "（）用于标识光伏发电单元专用或公用的系统、建（构）筑物、安装项",
+    "options": ["前缀符", "系统码", "设备码", "全站码"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "type": "single",
+    "question": "用（）才能消除低合金刃具钢中存在的较严重的网状碳化物",
+    "options": ["球化退火", "完全退火", "反复锻造", "正火"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "type": "single",
+    "question": "电气原理图中下列说法正确的是（）",
+    "options": ["必须使用国家统一规定的文字符号", "必须使用地方统一规定的文字符号", "必须使用国际电工组织统一规定的文字符号", "都不是"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "type": "single",
+    "question": "使用自动空气开关应遵循的一般原则有（）",
+    "options": ["自动空气开关的额定电压不小于被保护线路的额定电压", "自动空气开关的额定电流不大于被保护线路的计算电流", "自动空气开关的额定开断能力应大于线路中可能出现的最大短路电流", "自动空气开关的额定开断能力应小于线路中可能出现的最大短路电流"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "type": "single",
+    "question": "安全相关通信系统的选择应考虑环境条件影响，如环境温度，振动，冲击和电磁干扰。为了避免发生故障（如输出信号的衰退），对布线的抗干扰的一般原则为：分离通信电缆和（）",
+    "options": ["输入电缆", "输出电缆", "电力电缆", "光伏电缆"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "type": "single",
+    "question": "下面关于继电器叙述正确的是（）",
+    "options": ["继电器实质上是一种传递信号的电器", "继电器是能量转换电器", "继电器是电路保护电器", "继电器是一种开关电器"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "type": "single",
+    "question": "铁碳合金相图上的ES线，其代号用（）表示",
+    "options": ["A1", "A3", "Acm", "A4"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "type": "single",
+    "question": "计算机能直接执行的程序是（）",
+    "options": ["命令文件", "可执行文件", "机器语言程序", "源程序"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "type": "single",
+    "question": "熔体的熔断时间与（）",
+    "options": ["电流成正比", "电流成反比", "电流的平方成正比", "电流的平方成反比"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "type": "single",
+    "question": "集电线路：在分散逆变、（）的光伏发电系统中，将就地升压变压器输出的电能输送至发电母线的交流输电线路",
+    "options": ["集中离网", "防孤岛", "集中并网", "防逆流"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "type": "single",
+    "question": "下面元素中能抑制火花爆裂的元素是（）",
+    "options": ["钨", "锰", "铬", "铜"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "type": "single",
+    "question": "交流接触器的发热是主要由（）",
+    "options": ["线圈发热", "铁心发热", "触点发热", "短路环发热"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "type": "single",
+    "question": "组合开关属于（）",
+    "options": ["刀开关", "断路器", "接触器", "保护电器"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "type": "single",
+    "question": "变质处理的目的是（）",
+    "options": ["细化晶粒", "改变晶体结构", "改善治炼质量，减少杂质", "以上都不是"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "type": "single",
+    "question": "安全完整性等级：一种离散的等级，用于规定分配给SRECS安全相关控制功能的安全完整性要求。在这里，安全完整性等级（）是最高的",
+    "options": ["3.0", "2.0", "1.0", "0.0"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "type": "single",
+    "question": "职业道德是指（）",
+    "options": ["人们在履行本职工作中所遵守的行为规范和准则", "人们在履行本职工作中所确立的奋斗目标", "人们在履行本职工作中所确立的价值观", "人们在履行本职工作中所遵守的规章制度"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "type": "single",
+    "question": "读图的基本步骤有：（），看电路图，看安装接线图",
+    "options": ["图样说明", "看技术说明", "看图样说明", "组件明细表"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "type": "single",
+    "question": "在以下工序顺序安排中，（）不是合理的安排",
+    "options": ["上道工序的加工不影响下道工序的定位与夹紧", "先进行外形加工工序，后进行内形形腔加工工序", "以相同定位、夹紧方式或同一把刀具加工的工序，最好接连进行", "在同一次装夹中进行的多道工序，应先安排对工件刚性破坏较小的工序"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "type": "single",
+    "question": "金属凝固后，内部化学成分和组织不均匀的现象称为（）",
+    "options": ["流动", "伸缩", "偏析", "渗透"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "type": "single",
+    "question": "采用水平单轴跟踪系统的线聚焦聚光光伏系统宜安装在（）且直射光分量较大地区",
+    "options": ["高纬度", "中纬度", "低纬度", "对纬度无要求"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "type": "single",
+    "question": "关于粗基准的选择和使用，以下叙述不正确的是（）",
+    "options": ["选工件上不需加工的表面作粗基准", "粗基准只能用一次", "当工件表面均需加工，应选加工余量最大的坯料表面作粗基准", "当工件所有表面都要加工，应选用加工余量最小的毛坯表面作粗基准"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "type": "single",
+    "question": "2020年9月22日，国家主席习近平在第七十五届联合国大会上宣布，中国力争（）年前二氧化碳排放达到峰值，努力争取（）年前实现碳中和目标",
+    "options": ["2030、2060", "2025、2050", "2045、2050", "2035、2060"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "type": "single",
+    "question": "成批加工车床导轨面时，宜采用的半精加工方法是（）",
+    "options": ["精刨", "精铣", "精磨", "精拉"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "type": "single",
+    "question": "安全文化的核心是树立（）的价值观念，真正做到“安全第一，预防为主”",
+    "options": ["以产品质量为主", "以经济效益为主", "以人为本", "以管理为主"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 36,
+    "type": "single",
+    "question": "共析钢冷却到PSK线时，要发生共析转变，奥氏体转变为（）",
+    "options": ["珠光体＋铁素体", "珠光体", "铁素体", "以上都不是"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "type": "single",
+    "question": "（）不表示二进制数",
+    "options": ["进位基数是二", "逢十进一", "每个效位上只有“0”或“1”两个数码", "逢二进一"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "type": "single",
+    "question": "在拉伸实验过程中，（）金属材料没有明显的屈服现象",
+    "options": ["少数", "多数", "所有", "以上都不对"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "type": "single",
+    "question": "切削用量中对切削温度影响最大的是切削速度，影响最小的是（）",
+    "options": ["走刀量（进给量）", "切削深度", "工件材料硬度", "冷却液"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "type": "single",
+    "question": "在夹具中，用一个平面对工件进行定位，可限制工件的（）自由度",
+    "options": ["两个", "三个", "四个", "五个"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "type": "single",
+    "question": "RS-485串行通信接口为（），只采用一对平衡差分信号线用于发送和接收操作",
+    "options": ["全双工", "半双工", "串行", "以上都不是"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "type": "single",
+    "question": "低压断路器的瞬时动作电磁式过电流脱扣器的作用是（）",
+    "options": ["短路保护", "过载保护", "漏电保护", "缺相保护"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "type": "single",
+    "question": "半双工的传送模式是指数据的发送和接收由（）根传输线传送时，通信双方都不能在同一时刻进行发送和接收操作",
+    "options": ["1.0", "2.0", "3.0", "4.0"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "type": "single",
+    "question": "（）用来提高装夹刚度和稳定性，不起定位作用",
+    "options": ["固定支撑", "可调支撑", "浮动支撑", "辅助支撑"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "type": "single",
+    "question": "决定钢淬硬性高低的主要因素是钢的（）",
+    "options": ["含锰量", "含碳量", "含硅量", "含铝量"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "type": "single",
+    "question": "属于辅助时间的是（）",
+    "options": ["进给切削所需时间", "测量和检验工件时间", "工人喝水，上厕所时间", "领取和熟悉产品图样时间"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "type": "single",
+    "question": "太阳能来源于太阳内部的（）",
+    "options": ["热核反应", "物理反应", "原子核裂变反应", "化学反应"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "type": "single",
+    "question": "精基准是用（）作为定位基准面",
+    "options": ["未加工表面", "复杂表面", "切削量小的", "加工后的表面"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "type": "single",
+    "question": "亚共析钢冷却到PSK线时，要发生共析转变，奥氏体转变成（）",
+    "options": ["珠光体＋铁素体", "珠光体", "铁素体", "以上都不是"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "type": "single",
+    "question": "电气设备的外壳接地属于（）",
+    "options": ["保护接地类型", "防雷接地类型", "工作接地类型", "安全类型"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "type": "single",
+    "question": "机械零件的真实大小是以图样上的（）为依据",
+    "options": ["比例", "公差范围", "技术要求", "尺寸数值"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "type": "single",
+    "question": "PLC处于（）模式时，允许进行自由端口通讯",
+    "options": ["RUN", "PROGRAM", "监控模式", "都可以"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "type": "single",
+    "question": "在正常条件下不接地，且电压不能超过特低电压的电气系统是（）",
+    "options": ["SELV系统", "PELV系统", "FELV系统", "ELV系统"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "type": "single",
+    "question": "背吃刀量主要受（）的制约",
+    "options": ["刀具材质", "工件材料", "刀具使用寿命", "机床刚度"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "type": "single",
+    "question": "在绘制装配图时，（）绘制方法是错误的",
+    "options": ["两个零件接触表面只用一条轮廓线表示，不能画成两条线", "剖视图中接触的两个零件的剖面线方向应相反", "要画实心杆件和一些标准件的剖面线", "零件的退刀槽、圆角和倒角可以不画"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "type": "single",
+    "question": "光伏方阵定期检修周期应不超过（）年",
+    "options": ["1", "2", "3", "5"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "type": "single",
+    "question": "用机械加工方法，将毛坯变成零件的过程称为（）过程",
+    "options": ["加工工艺", "制造工艺", "机械加工工艺", "机械工艺"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "type": "single",
+    "question": "碳达峰、碳中和的目标是（）",
+    "options": ["保护环境", "实现碳封存", "减少二氧化碳排放量，实现经济高质量发展", "控制温室气体的排放量"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "type": "single",
+    "question": "符号GB的含义是（）",
+    "options": ["国际标准", "部级标准", "国家标准", "国外标准"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "type": "single",
+    "question": "根据光伏电站接入电网的电压等级，通过66kV及以上电压等级接入电网的光伏电站，称为（）",
+    "options": ["小型光伏电站", "中型光伏电站", "大型光伏电站", "特大型光伏电站"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "type": "single",
+    "question": "发展到今天的各种计算机仍是基于（）提出的基本工作原理",
+    "options": ["布尔", "香农", "冯·诺依曼", "威尔克斯"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "type": "single",
+    "question": "根据尺寸在图样上的布置特点，尺寸标注形式可分为链式、坐标式和综合式三类。其中关于链式标注，（）描述是错误的",
+    "options": ["把同一方向的一组尺寸依次首尾相接", "前一段尺寸的加工误差不影响后一段", "各段尺寸误差累计在总体尺寸上", "各段尺寸的加工精度只取决于本段的加工误差，不会产生累计误差"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "type": "single",
+    "question": "过冷度的大小与冷却速度有关。冷却速度（），过冷度越大",
+    "options": ["越慢", "越快", "越稳定", "以上都不对"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "type": "single",
+    "question": "检查逆变器背挂板是否紧固，对松动的螺丝进行紧固处理，排查（）是否异常，对异常器件进行更换",
+    "options": ["CPU、功率模块", "电流，功率模块", "电压，功率模块", "风机，功率模块"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "type": "single",
+    "question": "并网点：用户电力设施与电力系统相连接的（）",
+    "options": ["参考点", "连接点", "对应点", "汇总点"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "type": "single",
+    "question": "PLC与计算机之间的通信一般是通过（）口进行的",
+    "options": ["RS-485", "RS-232", "MPI", "RS-485或RS-232"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "type": "single",
+    "question": "对于中断供电将会在经济上产生重大损失的用电负荷视为（）",
+    "options": ["一级负荷", "二级负荷", "三级负荷", "特别重要负荷"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "type": "single",
+    "question": "物质是由原子和（）构成",
+    "options": ["质子", "分子", "铜子", "离子"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "type": "single",
+    "question": "用接触器控制一台10kW三相异步电动机时，宜选用交流接触器的额定电流为（）",
+    "options": ["10A", "20A", "40A", "100A"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "type": "single",
+    "question": "过冷奥氏体向马氏体转变终了温度约为（）℃",
+    "options": ["230.0", "50.0", "727.0", "600.0"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 71,
+    "type": "single",
+    "question": "合金渗碳钢渗碳后必须进行（）热处理才能使用",
+    "options": ["淬火＋低温回火", "淬火＋中温回火", "淬火＋高温回火", "以上都不是"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "type": "single",
+    "question": "金属的晶粒越细，则表现出其塑性和韧性（）",
+    "options": ["越好", "越差", "相同", "以上都不对"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 73,
+    "type": "single",
+    "question": "RS-485串行通信接口可用于多站点的互连，一条总线上最多可连接（）个站点",
+    "options": ["128.0", "256.0", "64.0", "32.0"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 74,
+    "type": "single",
+    "question": "一般机械工程图采用（）原理画出",
+    "options": ["正投影", "中心投影", "平行投影", "点投影"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 75,
+    "type": "single",
+    "question": "完全定位是指（）",
+    "options": ["工件的六个自由度全部被限制的定位。一般当工件在x、y、z三个坐标方向上均有尺寸要求或位置精度要求时采用", "根据工件的加工要求，有时并不需要限制工件的全部自由度", "根据工件的加工要求，应该限制的自由度没有完全被限制定位。此种定位无法保障加工要求，所以是绝对不允许的", "重复限制工件的同一个或几个自由度的现象。此种定位往往会带来不良后果，应尽量避免"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 76,
+    "type": "single",
+    "question": "利用心轴外圆与工件内孔的过盈配合来实现夹紧，定位元件与夹紧元件合为一体，它是一种（）夹紧结构",
+    "options": ["自动定位", "特殊定位", "可调定位", "可换定位"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 77,
+    "type": "single",
+    "question": "铰孔时对孔的（）的纠正能力较差",
+    "options": ["表面粗糙度", "尺寸精度", "形状精度", "位置精度"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 78,
+    "type": "single",
+    "question": "电力系统与大地间不直接连接，电气装置的外露可导电部分通过保护接地线与接地极连接的系统是（）",
+    "options": ["TN-C系统", "TN-S系统", "TT系统", "IT系统"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 79,
+    "type": "single",
+    "question": "（）是针对某一工件或某一固定工序而专门设计的。操作方便、迅速，生产率高。但在产品变更后就无法利用，因此，适合大批量生产",
+    "options": ["通用夹具", "专用夹具", "可调夹具", "组合夹具"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 80,
+    "type": "single",
+    "question": "显示器的分辨率高低表示（）",
+    "options": ["在同一字符面积下，所需像素点越多，其分辨率越低", "在同一字符面积下，所需像素点越多，其显示的字符越不清楚", "在同一字符面积下，所需像素点越多，其分辨率越高", "在同一字符面积下，所需像素点越少，其字符的分辨效果越好"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 81,
+    "type": "single",
+    "question": "组合夹具系统按元件接合面的连接方式可分为槽系和孔系两种类型。关于孔系组合夹具，不正确的描述是（）",
+    "options": ["主要元件表面上具有光孔和螺纹孔", "组装时通过键和螺栓来实现元件的相互定位和紧固", "组装时通过圆柱定位销（一面两销）和螺栓来实现元件的相互定位和紧固", "任意定位孔可作为坐标原点，无需专设原点元件"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 82,
+    "type": "single",
+    "question": "a-Fe是具有（）晶格的铁",
+    "options": ["体心立方", "面心立方", "密排六方", "以上都不对"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 83,
+    "type": "single",
+    "question": "接触器的文字符号是（）",
+    "options": ["KM", "KS", "KT", "KA"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 84,
+    "type": "single",
+    "question": "防静电工作区的环境相对湿度以不低于（）为宜",
+    "options": ["10%", "50%", "30%", "20%"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 85,
+    "type": "single",
+    "question": "在绘制主轴零件图时，可用（）来表达零件上一些细小结构的形状和尺寸",
+    "options": ["局部放大图", "剖面图", "剖视图", "斜视图"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 86,
+    "type": "single",
+    "question": "下列排号中，最适合制造车床主轴的是（）",
+    "options": ["T8", "Q195", "45.0", "08F"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 87,
+    "type": "single",
+    "question": "节点：通信系统中由（）功能单元互联的数据通道或者数据电路点",
+    "options": ["二个", "四个", "一个或多个", "三个"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 88,
+    "type": "single",
+    "question": "工艺基准分为（）、测量和装配基准",
+    "options": ["设计", "加工", "安装", "定位"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 89,
+    "type": "single",
+    "question": "负责管理每一计算机间的通信协议，数据传输等工作的操作系统是（）操作系统",
+    "options": ["网络", "分时", "多重处理", "实时"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 90,
+    "type": "single",
+    "question": "应力的单位是（）",
+    "options": ["N", "Pa", "mm2", "J/cm2"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 91,
+    "type": "single",
+    "question": "热继电器金属片弯曲是由于下列原因造成的（）",
+    "options": ["机械强度不同", "热膨胀系数不同", "温度变化", "温差效应"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 92,
+    "type": "single",
+    "question": "铁碳合金相图上的共析线是（）",
+    "options": ["EC", "ECF", "PSK", "SPK"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 93,
+    "type": "single",
+    "question": "一般场所下使用的剩余电流保护装置，作为人身直接触电保护时，应选用额定漏电动作电流和额定漏电动作时间分别为（）",
+    "options": ["0.2s", "50mA, 0.1s", "30mA, 0.2s", "30mA, 0.1s"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "type": "single",
+    "question": "采用交流接触器、按钮等构成的鼠笼式异步电动机直接启动控制电路，在合上电源开关后，电动机启动、停止控制都正常，但转向反了，原因是（）",
+    "options": ["接触器线圈反相", "控制回路自锁触头有问题", "引入电动机的电源相序错误", "电动机接法不符合铭牌"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "type": "single",
+    "question": "下列电器中不能实现短路保护的是（）",
+    "options": ["熔断器", "热继电器", "过电流继电器", "空气开关"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "type": "single",
+    "question": "毛坯的形状误差对下一工序的影响表现为（）复映",
+    "options": ["计算", "公差", "误差", "运算"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "type": "single",
+    "question": "合金发生固溶强化的主要原因是（）",
+    "options": ["晶格类型发生了变化", "晶粒细化", "晶格发生了畸变", "晶格体积发生了变化"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "type": "single",
+    "question": "下列不属于串行通讯的是（）",
+    "options": ["USB", "RS-485", "RS-232", "LPT"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 99,
+    "type": "single",
+    "question": "绘制（）零件时，应把能较多地反映零件结构形状和相对位置的方向作为主视图方向",
+    "options": ["轴类", "盘盖类", "叉架类", "箱体类"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 100,
+    "type": "single",
+    "question": "光伏电站发电功率超短期预测建模需要特别注意（）对短波辐射的影响",
+    "options": ["水蒸气", "二氧化碳", "云层", "臭氧"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 101,
+    "type": "single",
+    "question": "验证过程中，（）、测试结果、版本信息以及其他相关信息都应该以基线的形式记录",
+    "options": ["设置参数", "测试过程", "测试方法", "参数设置"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 102,
+    "type": "single",
+    "question": "企业加强职业道德建设，关键是（）",
+    "options": ["树立企业形象", "领导以身作则", "抓好职工教育", "健全规章制度"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 103,
+    "type": "single",
+    "question": "用T12A钢制造的锉刀，最后热处理采用（）",
+    "options": ["淬火＋中温回火", "调质处理", "淬火＋低温回火", "淬火＋高温回火"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 104,
+    "type": "single",
+    "question": "在电气原理图中，熔断器的文字符号是（）",
+    "options": ["FR", "RL", "FU", "RU"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 105,
+    "type": "single",
+    "question": "无填料封闭管式熔断器属于（）",
+    "options": ["开启式熔断器", "防护式熔断器", "封闭式熔断器", "纤维管式熔断器"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 106,
+    "type": "single",
+    "question": "低压开关一般为（）",
+    "options": ["非自动切换电器", "自动切换电器", "半自动切换电器", "无触点电器"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 107,
+    "type": "single",
+    "question": "零件图由图形、尺寸线、（）和标题栏组成",
+    "options": ["形位公差要求", "表面粗糙度要求", "热处理要求", "技术要求"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 108,
+    "type": "single",
+    "question": "过定位是指（）",
+    "options": ["工件的六个自由度全部被限制的定位。一般当工件在x、y、z三个坐标方向上均有尺寸要求或位置精度要求时采用", "根据工件的加工要求，有时并不需要限制工件的全部自由度", "根据工件的加工要求，应该限制的自由度没有完全被限制定位。此种定位无法保障加工要求，所以是绝对不允许的", "重复限制工件的同一个或几个自由度的现象。此种定位往往会带来不良后果，应尽量避免"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 109,
+    "type": "single",
+    "question": "在工业、企业、机关、公共建筑、住宅中目前广泛使用的控制和保护电器是（）",
+    "options": ["开启式负荷式开头", "接触器", "转换开关", "断路器"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 110,
+    "type": "single",
+    "question": "对刀具耐用度影响最大的是（）",
+    "options": ["切削深度", "进给量", "切削速度", "影响程度相近"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 111,
+    "type": "single",
+    "question": "速度继电器的作用是（）",
+    "options": ["限制运行速度用", "测量运行速度用", "电动机反接制动用", "控制电动机转向用"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 112,
+    "type": "single",
+    "question": "光伏发电系统出力具有波动性和（）",
+    "options": ["连续性", "稳定性", "周期性", "间歇性"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 113,
+    "type": "single",
+    "question": "光伏支架：光伏发电系统中为了支撑（）而设置的专用支架",
+    "options": ["光伏组件", "逆变器", "光伏组件与逆变器", "负载"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 114,
+    "type": "single",
+    "question": "根据尺寸在图样上的布置特点，尺寸标注形式可分为链式、坐标式和综合式三类。其中关于坐标式标注，（）描述是错误的",
+    "options": ["同一方向的一组尺寸从同一基准出发进行标注", "各段尺寸的误差累计在总体尺寸上", "各段尺寸的加工精度只取决于本段的加工误差", "总体尺寸的精度容易得到保证"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 115,
+    "type": "single",
+    "question": "工件夹紧的三要素是（）",
+    "options": ["夹紧力的大小，夹具的稳定性，夹具的准确性", "夹紧力的大小、夹紧力的方向、夹紧力的作用点", "工件变形小、夹具稳定可靠、定位准确", "夹紧力要大、工件稳定、定位准确"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 116,
+    "type": "single",
+    "question": "球化退火时应将钢的温度加热到（）以上20℃~30℃",
+    "options": ["A1", "AC1", "ACcm", "A2"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 117,
+    "type": "single",
+    "question": "珠光体基体为（）",
+    "options": ["铁素体", "渗碳体", "莱氏体", "奥氏体"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 118,
+    "type": "single",
+    "question": "铁素体的最大溶碳量为（）",
+    "options": ["0.0077", "0.0211", "0.000218", "0.000418"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 119,
+    "type": "single",
+    "question": "拉伸实验时，试样拉断前所能承受的最大应力称为材料的（）",
+    "options": ["屈服强度", "抗拉强度", "弹性极限", "弯曲极限"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 120,
+    "type": "single",
+    "question": "一般情况下，单件小批生产模具零件的工序安排多为（）",
+    "options": ["工序分散", "工序集中", "集散兼有", "因地制宜"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 121,
+    "type": "single",
+    "question": "两面一销定位能限制（）个自由度",
+    "options": ["三", "四", "五", "六"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 122,
+    "type": "single",
+    "question": "用汇编语言和其它高级语言书写的程序通常称为（）程序",
+    "options": ["源", "目标", "汇编", "翻译"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 123,
+    "type": "single",
+    "question": "光伏发电系统安装容量的计量单位是（）",
+    "options": ["千瓦(kW)", "安时(Ah)", "峰瓦(Wp)", "法拉(F)"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 124,
+    "type": "single",
+    "question": "进行监控与通信系统本地功能测量时，工频交流电量每一电压输入回路的功率消耗应不大于（）VA",
+    "options": ["0.25", "0.5", "0.75", "1.0"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 125,
+    "type": "single",
+    "question": "信源编码的主要作用是去掉信号中的沉余信息，降低传输码率、（）频带宽度",
+    "options": ["增大传输", "减小传输", "加速传输", "减速传输"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 126,
+    "type": "single",
+    "question": "采用长圆柱孔定位，可以消除工件的（）自由度",
+    "options": ["两个移动", "两个移动两个转动", "三个移动一个转动", "两个移动一个转动"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 127,
+    "type": "single",
+    "question": "对于淬火温度过高而造成淬火硬度不足的工件，可在较低温度下重新（）进行补救",
+    "options": ["淬火", "回火", "正火", "退火"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 128,
+    "type": "single",
+    "question": "巡视检查包括（）与特殊巡视检查",
+    "options": ["普通巡视检查", "周期巡视检查", "定期巡视检查", "线路检查"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 129,
+    "type": "single",
+    "question": "用拉伸试验可测定材料的（）性能指标",
+    "options": ["强度", "硬度", "韧性", "塑性"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 130,
+    "type": "single",
+    "question": "深孔加工需要解决的关键技术可归为深孔刀具（）的确定和切削时的冷却排屑问题",
+    "options": ["种类", "材料", "加工方法", "几何形状"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 131,
+    "type": "single",
+    "question": "低压电器一般是指电器的交流额定电压不高于（）",
+    "options": ["36V", "220V", "380V", "1200V"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 132,
+    "type": "single",
+    "question": "光伏发电系统通过220V单相接入时，每个并网点容量不宜超过（）",
+    "options": ["5kW", "8kW", "10kW", "15kW"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 133,
+    "type": "single",
+    "question": "切削运动可分为主运动与进给运动。关于进给运动，（）的描述是不正确的",
+    "options": ["进给运动的速度较低、消耗功率较小", "进给运动只有且必须有一个", "进给运动可以由工件完成，也可以由刀具完成", "进给运动可以是连续运动，也可以是间歇运动"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 134,
+    "type": "single",
+    "question": "金属的焊接性能主要与它的（）有关",
+    "options": ["熔点", "密度", "化学成分", "质量"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 135,
+    "type": "single",
+    "question": "绘制（）零件时，一般以工作位置和最能确定反映形体特征的一面作为主视图",
+    "options": ["轴类", "盘盖类", "叉架类", "箱体类"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 136,
+    "type": "single",
+    "question": "国标中规定的几种图纸幅面中，幅面最大的是（）",
+    "options": ["0", "A1", "A2", "A3"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 137,
+    "type": "single",
+    "question": "渗碳体的含碳量为（）",
+    "options": ["0.77", "2.11", "6.69", "5.56"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 138,
+    "type": "single",
+    "question": "正常运行时，光伏系统和电网接口处单相电压的允许偏差为额定电压的（）",
+    "options": ["+5%、-5%", "+5%、-10%", "+7%、-10%", "+7%、-7%"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 139,
+    "type": "single",
+    "question": "专门负责整台电子计算机的指挥与控制的是（）",
+    "options": ["输入设备", "输出设备", "存储器", "控制器"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 140,
+    "type": "single",
+    "question": "工件在机床上或在夹具中装夹时，用来确定加工表面相对于刀具切削位置的面叫（）",
+    "options": ["测量基准", "装配基准", "工艺基准", "定位基准"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 141,
+    "type": "single",
+    "question": "夹具中螺旋夹紧装置的主要缺点是（）",
+    "options": ["夹紧不可靠", "费时费力", "容易损坏工件", "容易损坏夹具体"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 142,
+    "type": "single",
+    "question": "判断交流或直流接触器的依据是（）",
+    "options": ["线圈电流的性质", "主触点电流的性质", "主触点的额定电流", "辅助触点的额定电流"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 143,
+    "type": "single",
+    "question": "第一类防雷建筑物上的屋面光伏发电站检测周期为（）",
+    "options": ["1个月", "3个月", "6个月", "12个月"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 144,
+    "type": "single",
+    "question": "三爪自定心卡盘、平口钳等属于（）",
+    "options": ["通用夹具", "专用夹具", "组合夹具", "可调夹具"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 145,
+    "type": "single",
+    "question": "（）在一定的范围内无需调整或稍加调整就可用于装夹不同的工件。这类夹具通常作为机床附件由专业厂生产，操作费时、生产率低，主要用于单件小批量生产",
+    "options": ["通用夹具", "专用夹具", "可调夹具", "组合夹具"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 146,
+    "type": "single",
+    "question": "辐照度的单位是（）",
+    "options": ["J/m2", "W/m2", "J", "W"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 147,
+    "type": "single",
+    "question": "下列关于创新的论述，正确的是（）",
+    "options": ["创新与继承根本对立", "创新就是独立自主", "创新是民族进步的灵魂", "创新不需要引进国外新技术"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 148,
+    "type": "single",
+    "question": "共析钢冷却到GS线时，要从奥氏体中析出（）",
+    "options": ["铁素体", "渗碳体", "珠光体", "奥氏体"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 149,
+    "type": "single",
+    "question": "尺寸链中，当其他尺寸确定后，新产生的一个环是（）",
+    "options": ["增环", "减环", "增环或减环", "封闭环"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 150,
+    "type": "single",
+    "question": "检测光伏发电系统某支路电流值与同一汇流箱中其他支路平均电流相比偏差率超过（）时且确定为故障时，应按故障检修方式进行",
+    "options": ["10%", "8%", "5%", "4%"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 151,
+    "type": "single",
+    "question": "下列元素中属强碳化物形成元素的是（）",
+    "options": ["铁", "钛", "铝", "镁"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 152,
+    "type": "single",
+    "question": "交流接触器短路环的作用是（）",
+    "options": ["短路保护", "消除铁心振动", "增大铁心磁通", "减小铁心磁通"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 153,
+    "type": "single",
+    "question": "复合按钮在按下时其触头动作情况是（）",
+    "options": ["常开触头先接通，常闭触头后断开", "常闭触头先断开，常开触头后接通", "常开触头接通与常闭触头断开同时进行", "常开触头接通与常闭触头断开都不工作"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 154,
+    "type": "single",
+    "question": "热继电器在电路中主要用于（）",
+    "options": ["过载保护", "短路保护", "失压保护", "漏电保护"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 155,
+    "type": "single",
+    "question": "钳形电流表的最大缺点是（）",
+    "options": ["准确度高", "准确度低", "精确度高", "精确度低"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 156,
+    "type": "single",
+    "question": "在以下的元素中（）能与Fe形成间隙固溶体",
+    "options": ["铬", "锰", "碳", "铝"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 157,
+    "type": "single",
+    "question": "不锈钢2Cr13的平均含碳量为（）%",
+    "options": ["0.2", "2.0", "0.02", "20.0"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 158,
+    "type": "single",
+    "question": "在电火花穿孔加工中由于放电间隙存在，工具电极的尺寸应（）被加工孔尺寸",
+    "options": ["大于", "等于", "小于", "不等于"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 159,
+    "type": "single",
+    "question": "热继电器用作电动机的过载保护，适用于（）",
+    "options": ["重载间断工作的电动机", "频繁起动与停止的电动机", "连续工作的电动机", "任何工作制的电动机"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 160,
+    "type": "single",
+    "question": "第二类、第三类防雷建筑物上的屋面光伏发电站和地面光伏发电站检测周期为（）",
+    "options": ["1个月", "3个月", "6个月", "12个月"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 161,
+    "type": "single",
+    "question": "光伏发电系统的噪声应不大于（）",
+    "options": ["120db", "100db", "80db", "60db"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 162,
+    "type": "single",
+    "question": "中间继电器的结构及原理与（）",
+    "options": ["热继电器相似", "电流继电器相类似", "交流接触器相类似", "电压继电器相类似"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 163,
+    "type": "single",
+    "question": "计算机指令大多是对（）进行操作",
+    "options": ["数据", "数值", "二进制码", "二进制数"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 164,
+    "type": "single",
+    "question": "在零件毛坯材料硬度变化或（）的情况下进行加工，会引起切削力大小的变化，因而产生误差",
+    "options": ["加工余量非常均匀", "材料硬度无变化", "加工余量均匀，无变化", "加工余量不匀"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 165,
+    "type": "single",
+    "question": "交流接触器的线圈电压过高将导致（）",
+    "options": ["线圈电流显著增加", "线圈电流显著减少", "触点电流显著增加", "触点电流显著减少"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 166,
+    "type": "single",
+    "question": "下列组织中塑性最好的是（）",
+    "options": ["铁素体", "珠光体", "渗碳体", "奥氏体"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 167,
+    "type": "single",
+    "question": "微电网与配电网相连，进行直流注入量测试时，各测量点要求分别测试（）次，测量结果取平均值",
+    "options": ["5", "10", "30", "50"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 168,
+    "type": "single",
+    "question": "电动机基本控制线路的安装步骤说法错误的是（）",
+    "options": ["识读电路图，明确线路所用电器元件及其作用，熟悉线路的工作原理", "连接电动机和所有电器元件金属外壳保护不用接地线", "根据电路图和元件明细表配齐电器元件，并进行检验", "根据电器元件选配安装主具和控制板"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 169,
+    "type": "single",
+    "question": "光伏发电系统：利用太阳电池的（），将太阳辐射能直接转换成电能的发电系统",
+    "options": ["热岛效应", "孤岛效应", "光电效应", "光生伏特效应"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 170,
+    "type": "single",
+    "question": "选用精基准的表面安排在（）工序进行",
+    "options": ["起始", "中间", "最后", "任意"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 171,
+    "type": "single",
+    "question": "光伏组件串宜在辐照度（）700W/m2的条件下进行测试",
+    "options": [">=", "<", "<=", "无要求"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 172,
+    "type": "single",
+    "question": "波特率的概念是每秒传送的（）",
+    "options": ["八进制数", "二进制数", "十六进制数", "十进制数"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 173,
+    "type": "single",
+    "question": "防静电地线不得接在电源（）上，不得与防雷地线共用",
+    "options": ["接地线", "火线", "零线", "通信线"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 174,
+    "type": "single",
+    "question": "逆变器检修应按照设备操作要求先断开并网柜开关和交流侧负载，再断开直流侧输入源（光伏组串，直流蓄电池等）并测量端口残压检测直流端口电压小于（）V交流电压小于（）V方可开箱（门）检修操作",
+    "options": ["60, 38", "38, 60", "36, 50", "50, 36"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 175,
+    "type": "single",
+    "question": "当需表达机件内部部分结构，需选择（）来表达",
+    "options": ["三视图", "全剖视图", "半剖视图", "局部剖视"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 176,
+    "type": "single",
+    "question": "并网点：对于有升压站的光伏发电系统，指升压站高压侧母线或节点。对于无升压站的光伏发电系统，指光伏发电系统的（）汇总点",
+    "options": ["输出", "输入", "总", "升压"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 177,
+    "type": "single",
+    "question": "含碳量为1.2%的铁碳合金，在室温下的组织为（）",
+    "options": ["珠光体", "珠光体+铁素体", "珠光体+二次渗碳体", "以上都不是"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 178,
+    "type": "single",
+    "question": "为了提高零件加工的生产率，应考虑的最主要一个方面是（）",
+    "options": ["减少毛坯余量", "提高切削速度", "减少零件加工中的装卸，测量和等待时间", "减少零件在车间的运送和等待时间"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 179,
+    "type": "single",
+    "question": "下列属于有色金属的是（）",
+    "options": ["碳素结构钢", "碳素工具钢", "钛合金", "以上都不是"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 180,
+    "type": "single",
+    "question": "提高职业道德修养的方法有学习职业道德知识、提高文化素养、提高精神境界和（）等",
+    "options": ["加强舆论监督", "增强强制性", "增强自律性", "完善企业制度"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 181,
+    "type": "single",
+    "question": "纯铁的理论结晶温度是（）",
+    "options": ["1394℃", "912℃", "1538℃", "700℃"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 182,
+    "type": "single",
+    "question": "珠光体的含碳量为（）",
+    "options": ["0.77", "2.11", "6.69", "5.56"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 183,
+    "type": "single",
+    "question": "球化退火一般适用于（）",
+    "options": ["高碳钢", "低碳钢", "中碳钢", "以上都不是"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 184,
+    "type": "single",
+    "question": "分析电气原理图的基本原则是（）",
+    "options": ["先分析交流通路", "先分析直流通路", "先分析主电路，后分析辅助电路", "先分析辅助电路，后分析主电路"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 185,
+    "type": "single",
+    "question": "电路图中，PE表示（）意思",
+    "options": ["中性线", "保护接地线", "保护线", "接地线"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 186,
+    "type": "single",
+    "question": "选择定位基准时，应尽量与工件的（）一致",
+    "options": ["工艺基准", "测量基准", "起始基准", "设计基准"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 187,
+    "type": "single",
+    "question": "全双工的传送模式是指数据的发送和接收由（）根传输线传送时，通信双方都能在同一时刻进行发送和接收操作",
+    "options": ["1.0", "2.0", "3.0", "4.0"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 188,
+    "type": "single",
+    "question": "任何一个未被约束的物体，在空间具有进行（）种运动的可能性",
+    "options": ["六", "五", "四", "三"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 189,
+    "type": "single",
+    "question": "下列选项中属于职业道德范畴的是（）",
+    "options": ["企业经营业绩", "企业发展战略", "员工的技术水平", "人们的内心信念"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 190,
+    "type": "single",
+    "question": "高碳钢磨削时的火花小碎花和花粉量多而密集，花量占整个火束的（）以上",
+    "options": ["1/2", "3/5", "5/6", "5/8"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 191,
+    "type": "single",
+    "question": "光伏发电站标识系统应分为工艺相关标识、安装点标识和（）三种类型",
+    "options": ["工艺相关标识", "安装点标识", "位置标识", "设备编码"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 192,
+    "type": "single",
+    "question": "亚共析钢冷却到GS线时，要从奥氏体中析出（）",
+    "options": ["铁素体", "渗碳体", "珠光体", "以上都不是"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 193,
+    "type": "single",
+    "question": "辅助支承限制（）个自由度",
+    "options": ["0", "1", "2", "3"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 194,
+    "type": "single",
+    "question": "装夹薄壁零件时，（）是不正确的",
+    "options": ["在加工部位附近定位和辅助定位", "选择夹紧力的作用点和位置时，采用较大的面积传递夹紧力", "夹紧力作用位置应尽可能沿加工轮廓设置", "减小工件与工装间的有效接触面积"],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 195,
+    "type": "single",
+    "question": "选择制造小弹簧（）的材料",
+    "options": ["08F", "65Mn", "45.0", "T10A"],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 196,
+    "type": "single",
+    "question": "在微电网接入配电网的监控与通信系统的数据正确性及性能测试中，要求遥信变位由微电网并网点监控装置传递到远方调度系统或模拟主站的时间为（）",
+    "options": ["小于2s", "小于3s", "小于4s", "小于5s"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 197,
+    "type": "single",
+    "question": "封闭环公差等于（）",
+    "options": ["各组成环公差之和", "减环公差", "增环、减环代数差", "增环公差"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 198,
+    "type": "single",
+    "question": "用同一平面上的三个支承点对工件的平面进行定位，能限制其（）自由度",
+    "options": ["一个移动一个转动", "两个移动一个转动", "一个移动两个转动", "两个移动两个转动"],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 199,
+    "type": "single",
+    "question": "在分散逆变、集中并网的光伏发电系统中，将就地升压变压器（）的电能输送至发电母线的（）输电线路",
+    "options": ["输出交流", "输出直流", "输入交流", "输入直流"],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 200,
+    "type": "multiple",
+    "question": "产生加工误差的因素有（）",
+    "options": ["工艺系统的几何误差", "工艺系统的受力变形所引起的误差", "工件内应力所引起的误差", "工艺系统的受热变形所引起的误差"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 201,
+    "type": "multiple",
+    "question": "金属淬火的目的有（）",
+    "options": ["提高工件的硬度及耐磨性", "提高工件的综合机械性能", "使工件易于切削", "获得特殊的物理化学性能"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 202,
+    "type": "multiple",
+    "question": "工件回火后（）",
+    "options": ["减小、消除内应力", "提高塑性和韧性", "提高硬度", "提高强度", "稳定组织和尺寸"],
+    "answer": "ABE",
+    "explanation": ""
+  },
+  {
+    "id": 203,
+    "type": "multiple",
+    "question": "变压器油运抵现场后，应尽快着手对油样进行检测，按规程简化检查如下项目：（）、介质损耗角和机械杂质含量",
+    "options": ["击穿电压", "微水", "气象色谱分析", "极化指数测量"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 204,
+    "type": "multiple",
+    "question": "无静差调速系统转速调节器可采用（）",
+    "options": ["比例积分调节器", "积分调节器", "比例调节器", "微分调节器"],
+    "answer": "AB",
+    "explanation": ""
+  },
+  {
+    "id": 205,
+    "type": "multiple",
+    "question": "当零件的表面质量要求特别高时，机械加工工艺路线按工序的性质不同，一般分为（）",
+    "options": ["粗加工", "半精加工", "精加工", "光整加工"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 206,
+    "type": "multiple",
+    "question": "以下那个部件属于风力发电机组机齿轮箱润滑系统？（）",
+    "options": ["油箱", "滤芯", "冷却风扇", "液压站"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 207,
+    "type": "multiple",
+    "question": "淬火方法有（）",
+    "options": ["单液淬火", "双介质淬火", "马氏体分级淬火", "贝氏体等温淬火"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 208,
+    "type": "multiple",
+    "question": "在现代工业中，主要的传动方式包括哪些（）",
+    "options": ["机械传动", "液压传动", "气压传动", "电气传动"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 209,
+    "type": "multiple",
+    "question": "下列金属材料牌号中，（）属于铁碳合金",
+    "options": ["T2，T3", "T8，T9", "Q345，Q460", "H59，H70", "HT100，HT200"],
+    "answer": "BCE",
+    "explanation": ""
+  },
+  {
+    "id": 210,
+    "type": "multiple",
+    "question": "以下不适合线切割加工的对象是（）",
+    "options": ["阶梯孔、阶梯轴", "型腔", "成型刀、样板", "非导电材料"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 211,
+    "type": "multiple",
+    "question": "一角接触球轴承的内径95mm，其代号不可能为（）",
+    "options": ["61919.0", "71995.0", "71919.0", "61995.0"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 212,
+    "type": "multiple",
+    "question": "常用的毛坯生产方式有（）",
+    "options": ["铸造", "锻造", "切割", "型材", "粉末冶金"],
+    "answer": "ABDE",
+    "explanation": ""
+  },
+  {
+    "id": 213,
+    "type": "multiple",
+    "question": "在滚动轴承中，以下各零件，需要采用含铬的合金钢为材料的是（）",
+    "options": ["内圈", "外圈", "保持架", "滚动体"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 214,
+    "type": "multiple",
+    "question": "以下常用来加工塑性材料的硬质合金的有（）",
+    "options": ["YG3", "YT5", "YG8", "YT30"],
+    "answer": "BD",
+    "explanation": ""
+  },
+  {
+    "id": 215,
+    "type": "multiple",
+    "question": "净化工业有害气体的基本方法有（）",
+    "options": ["吸收", "吸附", "焚烧", "冷凝及化学反应"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 216,
+    "type": "multiple",
+    "question": "下面（）情况下会使伺服电机过载",
+    "options": ["电机卡死", "高负荷长时间工作", "瞬间转速到达3000转每分", "制动闸未松开"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 217,
+    "type": "multiple",
+    "question": "风力发电机组中，下列哪些部件需要在半年检中进行油脂润滑（）",
+    "options": ["发电机轴承", "主轴轴承", "叶片轴承", "齿轮箱高速轴轴承"],
+    "answer": "AB",
+    "explanation": ""
+  },
+  {
+    "id": 218,
+    "type": "multiple",
+    "question": "铸铁中，碳不是以曲片状石墨形式存在的是（）",
+    "options": ["蠕墨铸铁", "可锻铸铁", "球墨铸铁", "灰铸铁"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 219,
+    "type": "multiple",
+    "question": "下列牌号中，不是最适合制造车床主轴的有哪些？（）",
+    "options": ["T8", "Q195", "45.0", "60.0"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 220,
+    "type": "multiple",
+    "question": "低冰镍磨浮分离属于（）",
+    "options": ["化学反应", "物理过程", "火法冶金", "湿法冶金"],
+    "answer": "BD",
+    "explanation": ""
+  },
+  {
+    "id": 221,
+    "type": "multiple",
+    "question": "减小变频电机轴电流的主要措施有（）",
+    "options": ["消除共模和谐波电压", "使用绝缘轴承", "增加接地电刷", "使用屏蔽电缆"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 222,
+    "type": "multiple",
+    "question": "（）下列哪些是相关孔系的常用加工方法？",
+    "options": ["同镗加工法", "分别加工法", "配镗加工法", "坐标磨削法"],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 223,
+    "type": "multiple",
+    "question": "宜用来制作机械设备安全防护装置的是哪些（）",
+    "options": ["金属板", "木板", "金属网", "金属栅栏"],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 224,
+    "type": "multiple",
+    "question": "属于工艺基准的是（）",
+    "options": ["定位基准", "装配基准", "测量基准", "设计基准"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 225,
+    "type": "multiple",
+    "question": "硅片的清洗方法包括（）",
+    "options": ["化学清洗法", "超声清洗法", "真空高温清洗法", "清水清洗法"],
+    "answer": "AB",
+    "explanation": ""
+  },
+  {
+    "id": 226,
+    "type": "multiple",
+    "question": "冷却水系统设置的检测参数有（）",
+    "options": ["温度", "压力", "低流量报警", "液位"],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 227,
+    "type": "multiple",
+    "question": "高压断路器作用是（）",
+    "options": ["不能切断和闭合高压线路的空载电流", "能切断和闭合高压线路的负荷电流", "不能切断和闭合高压线路的故障电流", "与继电保护配合，可快速切除故障，保证系统安全运行"],
+    "answer": "BD",
+    "explanation": ""
+  },
+  {
+    "id": 228,
+    "type": "multiple",
+    "question": "如果发现齿轮泵不能排料，那么可能的原因有（）",
+    "options": ["电磁阀没得电或毁坏", "吸入或排出阀关闭", "入口无料或压力过低", "旋转方向相反"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 229,
+    "type": "multiple",
+    "question": "钢回火后组织发生了变化，其性能（）",
+    "options": ["硬度下降", "塑性提高", "韧性提高", "强度提高", "硬度提高"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 230,
+    "type": "multiple",
+    "question": "风力发电机组中叶片装机后还要进行的测试包括（）",
+    "options": ["功率曲线测试", "噪音测试", "载荷测试", "振动测试"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 231,
+    "type": "multiple",
+    "question": "对简单低值、利用率低、维修性好或修理不复杂且出现故障停机不影响生产大局的设备，维修经济性最好的维修方式是（）；在现代化大生产中，提倡的维修方式是（）",
+    "options": ["事后维修", "定期维修", "状态维修", "事前维修"],
+    "answer": "AC",
+    "explanation": ""
+  },
+  {
+    "id": 232,
+    "type": "multiple",
+    "question": "一张完整的零件图应包括以下内容（）",
+    "options": ["一组视图", "完整的尺寸", "技术要求", "标题栏"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 233,
+    "type": "multiple",
+    "question": "电气线路过电流保护应包括（）保护",
+    "options": ["大电流保护", "高电压保护", "短路保护", "过载保护"],
+    "answer": "CD",
+    "explanation": ""
+  },
+  {
+    "id": 234,
+    "type": "multiple",
+    "question": "电能表的主要技术参数包括（）",
+    "options": ["准确度等级", "额定电压、额定电流", "潜动", "功率消耗"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 235,
+    "type": "multiple",
+    "question": "衡量金属、高分子材料在静载荷下机械性能的指标有（）",
+    "options": ["强度", "硬度", "塑性", "韧性"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 236,
+    "type": "multiple",
+    "question": "在职业活动的内在道德准则中，“勤勉”的内在规定性是（）",
+    "options": ["时时鼓励自己上进，把责任变成内在的自主性要求", "不管自己乐意或不乐意，都要约束甚至强迫自己干好工作", "在工作时间内，如手头暂无任务，要积极主动寻找工作", "经常加班符合勤勉的要求"],
+    "answer": "AB",
+    "explanation": ""
+  },
+  {
+    "id": 237,
+    "type": "multiple",
+    "question": "硬度的常用测定方法有（）",
+    "options": ["布氏硬度", "洛氏硬度", "维氏硬度", "通用硬度"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 238,
+    "type": "multiple",
+    "question": "电工作业人员在对电气故障检修时应遵循（）原则",
+    "options": ["先看后想", "先外后内", "先简后繁", "先静后动"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 239,
+    "type": "multiple",
+    "question": "刚性转子的动平衡条件（）",
+    "options": ["速度平衡", "加速度平衡", "力平衡", "力矩平衡"],
+    "answer": "CD",
+    "explanation": ""
+  },
+  {
+    "id": 240,
+    "type": "multiple",
+    "question": "齿轮传动的优点有（）",
+    "options": ["寿命长", "效率高", "结构紧凑", "成本便宜"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 241,
+    "type": "multiple",
+    "question": "普通、优质和高级优质钢不是按钢的（）进行划分的",
+    "options": ["锰磷含量的多少", "硫磷含量的多少", "锰硅含量的多少", "硫锰含量的多少"],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 242,
+    "type": "multiple",
+    "question": "气动系统相比液压系统的优点是（）",
+    "options": ["压力高", "润滑方便", "污染少", "造价低"],
+    "answer": "CD",
+    "explanation": ""
+  },
+  {
+    "id": 243,
+    "type": "multiple",
+    "question": "尊重和保障人权，意味着社会关系的调整要更加注重（）",
+    "options": ["权力和权利的平衡", "权力与责任的平衡", "权利和义务的平衡", "权利和自我的平衡"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 244,
+    "type": "multiple",
+    "question": "常用的手工造型的方法有（）",
+    "options": ["整模造型", "分模造型", "活块造型", "挖砂造型"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 245,
+    "type": "multiple",
+    "question": "通用变频器一开机就出现过流跳闸可能的原因有（）",
+    "options": ["负载侧短路", "逆变管损坏", "起动转距过小", "机械卡住"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 246,
+    "type": "multiple",
+    "question": "铜锍吹炼的化学反应有（）",
+    "options": ["脱硫反应", "FeS的氧化", "造渣反应", "放热反应"],
+    "answer": "AC",
+    "explanation": ""
+  },
+  {
+    "id": 247,
+    "type": "multiple",
+    "question": "常用游标卡尺的测量精度有（）",
+    "options": ["0.01mm", "0.02mm", "0.05mm", "0.1mm"],
+    "answer": "BCD",
+    "explanation": ""
+  },
+  {
+    "id": 248,
+    "type": "multiple",
+    "question": "以下不属于高合金钢的是（）",
+    "options": ["60Si2Mn", "W6Mo5Cr4V2", "40MnVB", "GCr12"],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 249,
+    "type": "multiple",
+    "question": "尺寸链按其功能可分为设计尺寸链和工艺尺寸链。按其尺寸性质可分为（）",
+    "options": ["线性尺寸链", "增环尺寸链", "减环尺寸链", "角度尺寸链"],
+    "answer": "AD",
+    "explanation": ""
+  },
+  {
+    "id": 250,
+    "type": "multiple",
+    "question": "在电气设备上工作，保障安全的组织措施有工作票制度、（）以及工作间断、转移制度终结制度",
+    "options": ["工作许可制度", "工作间隔制度", "工作监护制度", "工作保护制度"],
+    "answer": "AC",
+    "explanation": ""
+  },
+  {
+    "id": 251,
+    "type": "multiple",
+    "question": "不适合用作飞机大梁、桁条等高载荷零件的铝合金有（）",
+    "options": ["防锈铝", "锻铝", "硬铝", "超硬铝"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 252,
+    "type": "multiple",
+    "question": "（）精加工应使用油基类切削液",
+    "options": ["普通碳素钢", "不锈钢", "铸铁", "黄铜", "铝"],
+    "answer": "BE",
+    "explanation": ""
+  },
+  {
+    "id": 253,
+    "type": "multiple",
+    "question": "影响刀具寿命的主要因素有（）",
+    "options": ["机床刚性", "工件材料", "刀具材料", "切削用量", "刀具几何角度"],
+    "answer": "BCDE",
+    "explanation": ""
+  },
+  {
+    "id": 254,
+    "type": "multiple",
+    "question": "以下属于太阳能光伏电池材料的是（）",
+    "options": ["硫化镉", "砷化镓", "氟化铵", "多晶硅"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 255,
+    "type": "multiple",
+    "question": "曲柄滑块机构的功能有（）",
+    "options": ["将主动曲柄的等速转动转换为从动滑块的往复直线移动", "将主动滑块的往复直线移动转换为从动曲柄的转动", "将主动曲柄的不等速转动转换为从动滑块的往复直线移动", "将主动滑块的往复直线移动转换为连杆的转动"],
+    "answer": "AB",
+    "explanation": ""
+  },
+  {
+    "id": 256,
+    "type": "multiple",
+    "question": "使晶闸管关断的方法有（）",
+    "options": ["给门极施加反压", "去掉阳极的正向电压", "增大回路阻抗", "给阳极施加反压"],
+    "answer": "BCD",
+    "explanation": ""
+  },
+  {
+    "id": 257,
+    "type": "multiple",
+    "question": "链传动的润滑方式除人工定期润滑外还有（）",
+    "options": ["油浴润滑", "滴油润滑", "溅油润滑", "压力油循环润滑"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 258,
+    "type": "multiple",
+    "question": "PLC的硬件系统包括（）",
+    "options": ["中央处理单元", "输入输出接口", "I/O扩展接口", "编程元件M、T、C"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 259,
+    "type": "multiple",
+    "question": "SIMATICS7系列可编程控制器范围包括（）",
+    "options": ["S7-200", "S7-300", "S7-400", "S120"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 260,
+    "type": "multiple",
+    "question": "识读流程图的要点（）",
+    "options": ["查看流程图的绘制日期", "找流程的环节，明确每个环节的功能和作用", "弄清流程中时序的体现与特征", "流程是技术的核心概念之一"],
+    "answer": "BCD",
+    "explanation": ""
+  },
+  {
+    "id": 261,
+    "type": "multiple",
+    "question": "具有体心立方晶格的金属有（）",
+    "options": ["铬", "钨", "铅", "金"],
+    "answer": "AB",
+    "explanation": ""
+  },
+  {
+    "id": 262,
+    "type": "multiple",
+    "question": "关于勤劳节俭的正确说法是（）",
+    "options": ["消费可以拉动需求，促进经济发展，因此提倡节俭是不合时宜的", "勤劳节俭是物质匮乏时代的产物，不符合现代企业精神", "勤劳可以提高效率，节俭可以降低成本", "勤劳节俭有利于可持续发展"],
+    "answer": "CD",
+    "explanation": ""
+  },
+  {
+    "id": 263,
+    "type": "multiple",
+    "question": "工厂电力负荷按其供电可靠性要求，分（）级负荷",
+    "options": ["一级负荷", "二级负荷", "三级负荷", "四级负荷"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 264,
+    "type": "multiple",
+    "question": "以下具有消除应力、细化晶粒、均匀组织的热处理是（）",
+    "options": ["正火", "退火", "淬火", "渗碳"],
+    "answer": "AB",
+    "explanation": ""
+  },
+  {
+    "id": 265,
+    "type": "multiple",
+    "question": "属于爱岗敬业的具体要求的是（）",
+    "options": ["树立职业理想", "树立职业责任", "提高职业技能", "抓住择业机遇"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 266,
+    "type": "multiple",
+    "question": "漏风对电收尘器的影响有（）",
+    "options": ["易使烟气结露，产生稀酸", "增加了排风机的负荷", "降低绝缘性能", "破坏电场内部的气流均匀性"],
+    "answer": "AB",
+    "explanation": ""
+  },
+  {
+    "id": 267,
+    "type": "multiple",
+    "question": "以下属于合金结构的是（）",
+    "options": ["W18Cr4V", "40Cr", "20CrMnB", "GCr12"],
+    "answer": "BCD",
+    "explanation": ""
+  },
+  {
+    "id": 268,
+    "type": "multiple",
+    "question": "下列那些属于贵金属（）",
+    "options": ["U", "Na", "Ag", "Os"],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 269,
+    "type": "multiple",
+    "question": "铁碳合金按含碳量及室温组织不同可分为：（）和（）",
+    "options": ["工业纯铁", "优质钢", "钢", "白口铸铁"],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 270,
+    "type": "multiple",
+    "question": "道路上作业不安全的做法有（）",
+    "options": ["路上未设置警示标志", "未穿反光警示服", "未设置路障", "隔夜工程设置黄色闪烁警示灯"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 271,
+    "type": "multiple",
+    "question": "正常运行中变压器需要定期进行试验项目有（）以及直流泄漏电流测量等",
+    "options": ["绕组直流电阻测量", "绝缘电阻", "介质损耗因数(tgδ)测量", "直流耐压试验"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 272,
+    "type": "multiple",
+    "question": "球化退火一般不适用于（）",
+    "options": ["高碳钢", "中碳钢", "低碳钢", "不锈钢"],
+    "answer": "BCD",
+    "explanation": ""
+  },
+  {
+    "id": 273,
+    "type": "multiple",
+    "question": "轴承补油的周期与（）有关",
+    "options": ["类型尺寸", "安装方向和环境", "工况", "电机的绝缘等级"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 274,
+    "type": "multiple",
+    "question": "下列是合金结构钢的有（）",
+    "options": ["滚动轴承钢", "合金渗碳钢", "合金弹簧钢", "低合金高强度结构钢"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 275,
+    "type": "multiple",
+    "question": "汽车起重机具有（）",
+    "options": ["运行速度高", "机动性好，便于转移", "起重量大", "可以载荷行驶"],
+    "answer": "AB",
+    "explanation": ""
+  },
+  {
+    "id": 276,
+    "type": "multiple",
+    "question": "继电器的种类一般有（）和时间继电器",
+    "options": ["过电流", "过电压", "低电压", "瓦斯", "温度"],
+    "answer": "ACDE",
+    "explanation": ""
+  },
+  {
+    "id": 277,
+    "type": "multiple",
+    "question": "下列情况下转炉不得进料的是（）",
+    "options": ["转炉倾转系统故障", "转炉角度为40°时", "转炉其它设备故障不能送风，而无确切的修复时间", "闪速炉或硫酸系统出现故障，需要停炉进行处理时"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 278,
+    "type": "multiple",
+    "question": "设备劣化的表现形式：机械磨损、塑性断裂和脆性断裂、元器件老化、（）",
+    "options": ["裂纹", "腐蚀", "蠕变", "松弛"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 279,
+    "type": "multiple",
+    "question": "机器视觉系统主要由（）三部分组成",
+    "options": ["图像的获取", "图像恢复", "图像增强", "图像的处理和分析"],
+    "answer": "AD",
+    "explanation": ""
+  },
+  {
+    "id": 280,
+    "type": "multiple",
+    "question": "常用的涂层材料有（）",
+    "options": ["WC", "TiC", "Al2O3", "YT", "TiN"],
+    "answer": "BCE",
+    "explanation": ""
+  },
+  {
+    "id": 281,
+    "type": "multiple",
+    "question": "钢中常见的马氏体有以下几种？（）",
+    "options": ["板条马氏体", "片状马氏体", "点状马氏体", "层状马氏体"],
+    "answer": "AB",
+    "explanation": ""
+  },
+  {
+    "id": 282,
+    "type": "multiple",
+    "question": "当冰铜品位有较大幅度增加时，操作工应该（）",
+    "options": ["按平时一样操作", "根据品位变化减少冷料加入量", "提高富氧率", "多加冷料"],
+    "answer": "BC",
+    "explanation": ""
+  },
+  {
+    "id": 283,
+    "type": "multiple",
+    "question": "游标卡尺的常见分度值有（）",
+    "options": ["0.02mm", "0.05mm", "0.1mm", "0.01mm"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 284,
+    "type": "multiple",
+    "question": "以企业成本为核心的维修策略所对应的维修方式包含（）",
+    "options": ["事后维修", "计划维修", "状态维修", "改良维修"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 285,
+    "type": "multiple",
+    "question": "既能按照基本视图的配置形式配置，也可自由配置的视图有（）",
+    "options": ["向视图", "局部视图", "斜视图", "全剖视图"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 286,
+    "type": "multiple",
+    "question": "工业\"三废\"指的是（）",
+    "options": ["废气", "废水", "废渣", "废料"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 287,
+    "type": "multiple",
+    "question": "产品缺陷分为（）四个等级",
+    "options": ["严重缺陷", "一般缺陷", "致命缺陷", "轻微缺陷"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 288,
+    "type": "multiple",
+    "question": "对于线切割加工，下列说法正确的是（）",
+    "options": ["线切割加工圆弧时，其运动轨迹是折线", "线切割加工斜线时，其运动轨迹是斜线", "加工斜线时，取加工的终点为切割坐标系的原点", "加工圆弧时，取圆心为切割坐标系的原点"],
+    "answer": "AD",
+    "explanation": ""
+  },
+  {
+    "id": 289,
+    "type": "multiple",
+    "question": "拉伸试验中材料经历的阶段有（）",
+    "options": ["弹性变形阶段", "屈服阶段", "强化阶段", "缩颈阶段"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 290,
+    "type": "multiple",
+    "question": "PLC的微处理器I/O接口一般（）构成",
+    "options": ["数据输入寄存器", "选通电路", "中断请求逻辑电路", "光电隔离电路"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 291,
+    "type": "multiple",
+    "question": "与渗碳相比，渗氮的优点是渗氮件（）",
+    "options": ["表面硬度高", "耐冲击", "变形小", "耐蚀性好"],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 292,
+    "type": "multiple",
+    "question": "下列钢号中，适合制造弹簧的有（）",
+    "options": ["65.0", "60Si2Mn", "50Cr", "42CrMo"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 293,
+    "type": "multiple",
+    "question": "以下是低碳钢的是（）",
+    "options": ["Q195", "15.0", "T9", "20.0"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 294,
+    "type": "multiple",
+    "question": "RAM的数据存储区中一般存放以下内容：（）",
+    "options": ["用户已编制好或正在调试的应用程序", "输入端状态采样结果和输出端状态运算结果的输入/输出映像", "定时器/计数器的设定值和现行值", "存放暂存数据和中间运算结果"],
+    "answer": "BCD",
+    "explanation": ""
+  },
+  {
+    "id": 295,
+    "type": "multiple",
+    "question": "重油烧烧系统设置的检测参数有（）",
+    "options": ["温度", "压力", "燃油流量", "燃烧风量"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 296,
+    "type": "multiple",
+    "question": "风力发电机组中，液压变桨系统中，液压站通过（），向变桨液压缸提供液压动力以调节浆叶角度",
+    "options": ["齿轮箱", "主轴", "液压旋转接头", "轮毂"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 297,
+    "type": "multiple",
+    "question": "常用键的形式有（）",
+    "options": ["圆键", "半圆键", "钩头楔键", "普通平键"],
+    "answer": "BCD",
+    "explanation": ""
+  },
+  {
+    "id": 298,
+    "type": "multiple",
+    "question": "具有面心立方晶格的金属有（）",
+    "options": ["铝", "锌", "铅", "金"],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 299,
+    "type": "multiple",
+    "question": "新转炉锅炉受热面采用碱性煮炉，冲洗范围为（）",
+    "options": ["水冷壁管", "对流管束", "集箱", "热水循环管"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 300,
+    "type": "multiple",
+    "question": "在考虑轴的结构时，应满足以下三个方面的要求（）",
+    "options": ["轴上的零件可靠固定", "阶台轴的直径应该是中间小两端大", "轴上的零件便于安装和拆卸", "轴便于加工和尽量避免或减小应力集中"],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 301,
+    "type": "multiple",
+    "question": "由硫化铜精矿生产粗铜需经（）三个工序",
+    "options": ["氧化焙烧", "冰铜熔炼", "冰铜吹炼", "脱水干燥"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 302,
+    "type": "multiple",
+    "question": "适当提高钢中的（）有利于改善钢的切削性能",
+    "options": ["硅", "锰", "硫", "磷", "镍"],
+    "answer": "CD",
+    "explanation": ""
+  },
+  {
+    "id": 303,
+    "type": "multiple",
+    "question": "关于配合，下列说法中错误的是（）",
+    "options": ["过盈配合的过盈量不可能是零", "无论哪种配合，其孔和轴的基本尺寸是相同的", "间隙等于零的配合是过渡配合", "轴的最大极限尺寸小于封闭孔的最小极限尺寸属于间隙配合", "过渡配合是可能存在间隙或过盈的配合"],
+    "answer": "AC",
+    "explanation": ""
+  },
+  {
+    "id": 304,
+    "type": "multiple",
+    "question": "译码器种类有（）",
+    "options": ["二进制译码器", "代码转换译码器", "显示译码器", "变量译码器"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 305,
+    "type": "multiple",
+    "question": "外圆表面加工主要采用（）等方法",
+    "options": ["车削", "磨削", "铣削", "刮研", "研磨"],
+    "answer": "AB",
+    "explanation": ""
+  },
+  {
+    "id": 306,
+    "type": "multiple",
+    "question": "下列属于设备操作四定的是（）定岗位、定机制",
+    "options": ["定标", "定人", "定期", "定机"],
+    "answer": "BD",
+    "explanation": ""
+  },
+  {
+    "id": 307,
+    "type": "multiple",
+    "question": "在电气接线中限制短路电流的方法有（）",
+    "options": ["装电抗器", "装熔断器", "采用分裂变压器", "要求母线分段运行"],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 308,
+    "type": "multiple",
+    "question": "钢中常存元素，对钢的质量有害的是（）",
+    "options": ["硅", "锰", "硫", "磷"],
+    "answer": "CD",
+    "explanation": ""
+  },
+  {
+    "id": 309,
+    "type": "multiple",
+    "question": "具有储能功能的电子元器件有（）",
+    "options": ["电阻", "电感", "晶体管", "电容"],
+    "answer": "BD",
+    "explanation": ""
+  },
+  {
+    "id": 310,
+    "type": "multiple",
+    "question": "以下不是碳素工具钢的是（）",
+    "options": ["Q255A-F", "65.0", "ZG200-400", "T12"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 311,
+    "type": "multiple",
+    "question": "测量误差有两种表达形式，即绝对误差和相对误差。关于相对误差，正确的描述是（）",
+    "options": ["相对误差是指测量的量值与其真值之比", "相对误差是指测量的量值与其真值之差的绝对值", "相对误差是一个无量纲的数据", "相对误差适于评定或比较大小相同的被测量的测量精度", "相对误差适于评定或比较大小不相同的被测量的测量精度"],
+    "answer": "ACE",
+    "explanation": ""
+  },
+  {
+    "id": 312,
+    "type": "multiple",
+    "question": "关于表面淬火，正确的描述是（）",
+    "options": ["提高零件表面硬度和耐磨性", "保证零件心部原有的韧性和塑性", "特别适用于低碳钢", "特别适用于中碳钢", "特别适用于高碳钢"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 313,
+    "type": "multiple",
+    "question": "关于圆柱形螺旋弹簧画法错误的是（）",
+    "options": ["在平行于轴线的投影面上的视图中，各圈轮廓形状应画成螺旋线", "螺旋压缩弹簧无论左旋还是右旋均可画成右旋", "螺旋压缩弹簧无论左旋还是右旋均可画成左旋", "对于需要规定旋向的螺旋压缩弹簧，不论左旋还是右旋一律要注出旋向"],
+    "answer": "AC",
+    "explanation": ""
+  },
+  {
+    "id": 314,
+    "type": "multiple",
+    "question": "工件影响刀具寿命的因素是（）",
+    "options": ["材料性质", "加工量多少", "导热系数", "材料强度", "材料硬度"],
+    "answer": "ACDE",
+    "explanation": ""
+  },
+  {
+    "id": 315,
+    "type": "multiple",
+    "question": "不仅改变钢的组织，而且钢表层的化学成分也发生变化的热处理是（）",
+    "options": ["火焰加热表面淬火", "感应加热表面淬火", "渗碳", "渗氮", "碳氮共渗"],
+    "answer": "CDE",
+    "explanation": ""
+  },
+  {
+    "id": 316,
+    "type": "multiple",
+    "question": "设备劣化主要原因有\"保温不良、螺栓松弛、（）\"",
+    "options": ["灰尘沾污", "受热", "潮湿", "润滑不良"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 317,
+    "type": "multiple",
+    "question": "以下牌号是青铜的是（）",
+    "options": ["HPb59-1", "QSn4-3", "QAl9-4", "QSi3-1"],
+    "answer": "BCD",
+    "explanation": ""
+  },
+  {
+    "id": 318,
+    "type": "multiple",
+    "question": "以下是高碳钢的是（）",
+    "options": ["合金渗碳钢", "合金调质钢", "滚动轴承钢", "合金量具钢"],
+    "answer": "CD",
+    "explanation": ""
+  },
+  {
+    "id": 319,
+    "type": "multiple",
+    "question": "铁磁材料的磁性能有（）",
+    "options": ["高导磁性", "磁饱和性", "磁滞性", "矩磁性"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 320,
+    "type": "multiple",
+    "question": "灰铸铁铸造的柴油发动机的气缸，若对其进行精加工，刀具材料不宜选用（）",
+    "options": ["YG3", "YG8", "YT3", "YT8"],
+    "answer": "BCD",
+    "explanation": ""
+  },
+  {
+    "id": 321,
+    "type": "multiple",
+    "question": "表面化学热处理的主要目的是（）",
+    "options": ["提高耐磨性", "提高耐蚀性", "提高抗疲性", "表面美观"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 322,
+    "type": "multiple",
+    "question": "能用于整流的半导体器件有（）",
+    "options": ["二极管", "晶体管", "晶闸管", "场效应晶体管"],
+    "answer": "AC",
+    "explanation": ""
+  },
+  {
+    "id": 323,
+    "type": "multiple",
+    "question": "新能源包括（）",
+    "options": ["太阳能", "风能", "地热能", "海洋能"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 324,
+    "type": "multiple",
+    "question": "衡量金属材料在交变载和冲击载荷作用下的指标有（）",
+    "options": ["硬度", "塑性", "疲劳强度", "冲击韧性"],
+    "answer": "CD",
+    "explanation": ""
+  },
+  {
+    "id": 325,
+    "type": "multiple",
+    "question": "热处理工艺过程包括（）",
+    "options": ["加热", "保温", "冷却", "均匀组织"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 326,
+    "type": "multiple",
+    "question": "万用表的组成部分有（）",
+    "options": ["指针", "表头", "测量电路", "转换开关"],
+    "answer": "BCD",
+    "explanation": ""
+  },
+  {
+    "id": 327,
+    "type": "multiple",
+    "question": "难加工材料，主要是指切削加工性能差的材料。金属材料切削加工性的好坏，主要是从（）方面来衡量",
+    "options": ["切削的加工效率", "已加工表面的质量", "切屑形成和排除的难易程度", "切削时的刀具耐用度"],
+    "answer": "BCD",
+    "explanation": ""
+  },
+  {
+    "id": 328,
+    "type": "multiple",
+    "question": "在企业生产经营活动中，员工之间团结互助的要求包括（）",
+    "options": ["讲究合作，避免竞争", "平等交流，平等对话", "既合作，又竞争，竞争与合作相统一", "互相学习，共同提高"],
+    "answer": "BCD",
+    "explanation": ""
+  },
+  {
+    "id": 329,
+    "type": "multiple",
+    "question": "金属切削加工中，影响切削温度的因素有（）",
+    "options": ["切削用量", "刀具角度", "刀具磨损", "工件材料", "刀具材料"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 330,
+    "type": "multiple",
+    "question": "点检标准的编制依据为（）",
+    "options": ["实践经验的积累", "维修技术标准", "设备使用说明书及有关技术图纸资料", "同类设备维护实绩"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 331,
+    "type": "multiple",
+    "question": "钢中元素不会使材料产生氢脆现象的是（）",
+    "options": ["硅", "硫", "氢", "磷"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 332,
+    "type": "multiple",
+    "question": "钻深孔容易出现的主要问题是（）",
+    "options": ["排屑和冷却困难", "难以保证孔的直径", "难以保证孔的深度", "难以预防\"引偏\""],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 333,
+    "type": "multiple",
+    "question": "锂离子电池的结构组成包括（）",
+    "options": ["正极材料", "负极材料", "隔膜", "电解液"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 334,
+    "type": "multiple",
+    "question": "下列符号的含义正确的有（）",
+    "options": ["K冲击功", "ak冲击力度", "HV维氏硬度", "L液态"],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 335,
+    "type": "multiple",
+    "question": "剖视图的种类有（）",
+    "options": ["全剖视图", "半剖视图", "局部剖视图", "单一剖视图"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 336,
+    "type": "multiple",
+    "question": "下列牌号中，不属于优质碳素结构钢的有（）",
+    "options": ["T8A", "08F", "Q235-A·F", "45Mn"],
+    "answer": "AC",
+    "explanation": ""
+  },
+  {
+    "id": 337,
+    "type": "multiple",
+    "question": "不具有密排六方晶格的金属有（）",
+    "options": ["钒", "镍", "银", "铜"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 338,
+    "type": "multiple",
+    "question": "保护接地的主要作用是（）",
+    "options": ["防止人身触电", "减少流经人体电流", "降低接地电压", "短路保护"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 339,
+    "type": "multiple",
+    "question": "以下不是铸钢的是（）",
+    "options": ["20Mn", "Q255A-F", "ZG200-400", "T12"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 340,
+    "type": "multiple",
+    "question": "触摸屏与PLC通讯速度一般有（）",
+    "options": ["9600bps", "19200bps", "38400bps", "9000bps"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 341,
+    "type": "multiple",
+    "question": "点检项目按点检的类型分为（）",
+    "options": ["日常点检", "定期点检", "良否点检", "倾向点检"],
+    "answer": "CD",
+    "explanation": ""
+  },
+  {
+    "id": 342,
+    "type": "multiple",
+    "question": "间隙配合（包括间隙配合加紧固件）可以用在（）场合",
+    "options": ["无相对运动，传递扭矩，要求精确定位并且可拆卸", "无相对运动，传递扭矩、要求精确定位并且永久结合", "无相对运动、传递扭矩，但不要求精确定位", "无相对运动、不传递扭矩，但要求精确定位", "有相对运动"],
+    "answer": "ACE",
+    "explanation": ""
+  },
+  {
+    "id": 343,
+    "type": "multiple",
+    "question": "卧式侧吹转炉的主要设备系统（）",
+    "options": ["加料系统", "送风系统", "排烟系统", "传动及控制系统"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 344,
+    "type": "multiple",
+    "question": "提高金属零件疲劳寿命的途径为（）",
+    "options": ["合理选择材料", "提高表面粗糙度", "表面强化处理", "合理设计零件结构和尺寸"],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 345,
+    "type": "multiple",
+    "question": "检验轴径的极限量规叫卡规。关于卡规，正确的描述是（）",
+    "options": ["由通端和止端组成", "通端控制轴的最小极限尺寸", "通端控制轴的最大极限尺寸", "止端控制轴的最小极限尺寸", "止端控制轴的最大极限尺寸"],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 346,
+    "type": "multiple",
+    "question": "导体的电阻与（）有关",
+    "options": ["电源", "导体的长度", "导体的截面积", "导体的材料性质"],
+    "answer": "BCD",
+    "explanation": ""
+  },
+  {
+    "id": 347,
+    "type": "multiple",
+    "question": "机械加工过程中定位精基准的选择原则（）",
+    "options": ["基准重合原则", "统一基准原则", "互为基准原则", "自为基准原则"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 348,
+    "type": "multiple",
+    "question": "切削热产生的原因在于（）",
+    "options": ["切削变形", "切削力", "切削温度", "刀具与工件之间的摩擦", "切屑与刀具间的摩擦"],
+    "answer": "ABDE",
+    "explanation": ""
+  },
+  {
+    "id": 349,
+    "type": "multiple",
+    "question": "鼠笼式异步电动机的降压起动一般分为下列（）几种方式",
+    "options": ["自耦变压器降压起动", "星-三角形换接起动", "转子回路串入适当电阻起动", "延边三角形起动"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 350,
+    "type": "multiple",
+    "question": "直流电机换向器表面的氧化膜是换向器与电刷间滑动接触产生电化学过程的结果，其主要作用是（）",
+    "options": ["减少换向器和电刷磨损", "改善换向性能", "便于维护", "降低噪音", "提高换向器表面硬度"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 351,
+    "type": "multiple",
+    "question": "转炉的吹炼方式有（）",
+    "options": ["顶部供氧+底部供惰性气体搅拌", "顶部供氧+底部吹氧气搅拌", "顶部供氧+部分底吹氧", "底部吹氧+部分顶吹氧"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 352,
+    "type": "multiple",
+    "question": "以下属于机构的是（）",
+    "options": ["纺织机", "齿轮变速器", "车床", "制动器"],
+    "answer": "BD",
+    "explanation": ""
+  },
+  {
+    "id": 353,
+    "type": "multiple",
+    "question": "球化退火一般不用于（）",
+    "options": ["过共析钢", "亚共析钢", "低碳钢", "合金钢"],
+    "answer": "BCD",
+    "explanation": ""
+  },
+  {
+    "id": 354,
+    "type": "multiple",
+    "question": "属于脉宽调制方式的变频器有（）",
+    "options": ["PWM变频器", "SPWM变频器", "VC变频器", "TC变频器"],
+    "answer": "AB",
+    "explanation": ""
+  },
+  {
+    "id": 355,
+    "type": "multiple",
+    "question": "下面选项中，哪几项不是25#变压器油中的25#表示的意思？（）",
+    "options": ["变压器的闪点是25℃", "油的凝固点是一25℃", "变压器油的耐压是25KV", "变压器油的比重是25"],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 356,
+    "type": "multiple",
+    "question": "在R、L、C串联电路中，下列情况正确的是（）",
+    "options": ["ωL>ωC，电路呈感性", "ωL=ωC，电路呈阻性", "ωL>ωC，电路呈容性", "ωC>ωL，电路呈容性"],
+    "answer": "ABD",
+    "explanation": ""
+  },
+  {
+    "id": 357,
+    "type": "multiple",
+    "question": "按轴径查标准可确定普通平键的（）",
+    "options": ["b", "h", "L", ""],
+    "answer": "AB",
+    "explanation": ""
+  },
+  {
+    "id": 358,
+    "type": "multiple",
+    "question": "下面哪些与铜形成不了黄铜合金？（）",
+    "options": ["锌", "锡", "锰", "镍"],
+    "answer": "BCD",
+    "explanation": ""
+  },
+  {
+    "id": 359,
+    "type": "multiple",
+    "question": "PLC的中央处理器单元主要由（）组成",
+    "options": ["微处理器CPU", "ROM存储器", "RAM存储", "微处理器I/O接口"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 360,
+    "type": "multiple",
+    "question": "直齿齿轮啮合的基本条件是（）",
+    "options": ["两齿轮的模数m必须相等", "两齿轮的分度圆压力角α必须相等", "两齿轮分度圆直径必须相等", "两齿轮的齿数比必须是整数"],
+    "answer": "AB",
+    "explanation": ""
+  },
+  {
+    "id": 361,
+    "type": "multiple",
+    "question": "以下是结构钢的是（）",
+    "options": ["普通碳素结构钢", "优质碳素结构钢", "碳素工具钢", "铸钢"],
+    "answer": "AB",
+    "explanation": ""
+  },
+  {
+    "id": 362,
+    "type": "multiple",
+    "question": "备件的三大管理是备件（）",
+    "options": ["定额管理", "计划管理", "仓库管理", "资金管理"],
+    "answer": "ABC",
+    "explanation": ""
+  },
+  {
+    "id": 363,
+    "type": "multiple",
+    "question": "定修模型是各生产工序的定修组合，考虑（）等平衡因素，设定的各项定修工程的周期和时间的一种标准化模式",
+    "options": ["能源平衡", "物流平衡", "检修人员平衡", "生产平衡"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 364,
+    "type": "multiple",
+    "question": "表面质量对零件使用性能的影响表现在对零件的（）影响等方面",
+    "options": ["耐磨性", "疲劳强度", "耐腐蚀性", "配合性质", "美观度"],
+    "answer": "ABCD",
+    "explanation": ""
+  },
+  {
+    "id": 365,
+    "type": "true_false",
+    "question": "工件表面有硬皮存在时宜采用逆铣",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 366,
+    "type": "true_false",
+    "question": "后置处理的主要任务是把CAM软件前置处理生成的刀轨和工参信息文件，转换成特定机床控制器可接受的特定格式的数控代码文件——NC程序",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 367,
+    "type": "true_false",
+    "question": "吸锡器法拆元件的步骤为：压紧吸锡器的弹簧，在释放弹力的时候，带动活塞产生吸力，把事先熔化的焊锡吸到吸锡器里，焊盘与引线之间没了焊锡，就很容易取下损坏的电阻",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 368,
+    "type": "true_false",
+    "question": "电流的方向与负电荷移动的方向相反",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 369,
+    "type": "true_false",
+    "question": "计算机辅助编程系统能够根据零件几何模型自动生成加工程序",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 370,
+    "type": "true_false",
+    "question": "组合开关在选作直接控制电机时，要求其额定电流可取电动机额定电流的2-3倍",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 371,
+    "type": "true_false",
+    "question": "孔轴过渡配合中，孔的公差带与轴的公差带相互交叠",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 372,
+    "type": "true_false",
+    "question": "淬火钢成品工件，一般用洛氏硬度机而不用布氏硬度机检测硬度",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 373,
+    "type": "true_false",
+    "question": "淬火后的钢，随回火温度的增高，其强度和硬度也增高",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 374,
+    "type": "true_false",
+    "question": "异步通信每一帧的数据通常高位在前、低位在后",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 375,
+    "type": "true_false",
+    "question": "按照国家标准《数值修约规则》运算，3.1416+20.3+31.0149的结果应为54.4",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 376,
+    "type": "true_false",
+    "question": "电子示波器配以变换器，可以测量各种非电量",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 377,
+    "type": "true_false",
+    "question": "碳素结构钢Q235A中字母A的含义是高级的意思",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 378,
+    "type": "true_false",
+    "question": "在数控机床上加工零件，应尽量选用组合夹具和通用夹具装夹工件，避免采用专用夹具",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 379,
+    "type": "true_false",
+    "question": "由于奥氏体组织具有强度低、塑性好，便于塑性变形的特点，因此，钢材轧制和锻造多在单一奥氏体组织温度范围内",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 380,
+    "type": "true_false",
+    "question": "用万用表测量二极管正反向电阻时，如果指针转动角度较大，则黑表笔接的是二极管的正极",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 381,
+    "type": "true_false",
+    "question": "65Mn钢中锰元素的含量为0.65%",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 382,
+    "type": "true_false",
+    "question": "RS485接口允许的最大电缆长度与信号传输的波特率成反比",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 383,
+    "type": "true_false",
+    "question": "画放大器交流通路时，大电容和直流电源应作断路处理",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 384,
+    "type": "true_false",
+    "question": "用指针式万用表检测电感质量好坏，应该选择万用表的电流档",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 385,
+    "type": "true_false",
+    "question": "在绘制剖视图时，如果是按投影关系配置，则可省略标注",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 386,
+    "type": "true_false",
+    "question": "计算机辅助编程生成的刀具轨迹就是数控加工程序",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 387,
+    "type": "true_false",
+    "question": "钢渗氮后无需淬火即有很高的硬度及耐磨性",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 388,
+    "type": "true_false",
+    "question": "加热时的临界点总是低于相图上的临界点",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 389,
+    "type": "true_false",
+    "question": "游标卡尺可用来测量长度、厚度、外径、内径、孔深等",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 390,
+    "type": "true_false",
+    "question": "电桥法测量湿度电路适合于氯化锂湿度传感器",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 391,
+    "type": "true_false",
+    "question": "先进硬质合金刀具，尤其是有涂层保护的刀具，在高速高温下使用时，添加切削液更有效率",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 392,
+    "type": "true_false",
+    "question": "电解电容器的两个极有正、负极性之分，使用时要特别注意",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 393,
+    "type": "true_false",
+    "question": "电容滤波电路的滤波效果与电容有关，电容越小，滤波效果越好",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 394,
+    "type": "true_false",
+    "question": "辅助支承用于提高工件装夹刚度和稳定性，并不起定位作用",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 395,
+    "type": "true_false",
+    "question": "电子计数器输入通道的作用是将被测信号进行放大、整形，使其变换为标准脉冲",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 396,
+    "type": "true_false",
+    "question": "变质处理可以有效提高铸造铝合金的力学性能",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 397,
+    "type": "true_false",
+    "question": "当对通信距离要求较远时应采用并行通信而不是串行通信",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 398,
+    "type": "true_false",
+    "question": "滚动轴承钢都是高级优质钢",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 399,
+    "type": "true_false",
+    "question": "在实际应用中，维氏硬度值是根据测定压痕对角线长度，再查表得到的",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 400,
+    "type": "true_false",
+    "question": "尺寸标注不应封闭",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 401,
+    "type": "true_false",
+    "question": "放大器的输出电阻是去掉负载后从放大器输出端看进去的等效电阻",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 402,
+    "type": "true_false",
+    "question": "电容器串联后，其耐压总是大于其中任一电容器的耐压",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 403,
+    "type": "true_false",
+    "question": "碳素工具钢和合金工具钢用于制造中、低速成型刀具",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 404,
+    "type": "true_false",
+    "question": "多晶体的塑性变形受晶界的影响，晶界越多，变形越容易",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 405,
+    "type": "true_false",
+    "question": "磷是钢中的有害杂质，硫能导致钢的冷脆性",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 406,
+    "type": "true_false",
+    "question": "洛氏硬度值无单位",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 407,
+    "type": "true_false",
+    "question": "低碳钢的花多为一次节花，很少有二次节花",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 408,
+    "type": "true_false",
+    "question": "铰孔余量太小时不能全部切去上道工序的加工痕迹，同时由于刀齿不能连续切削而沿孔壁打滑，使孔壁的质量下降",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 409,
+    "type": "true_false",
+    "question": "电子示波器是良好的信号比较器，如可测量李莎如图形",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 410,
+    "type": "true_false",
+    "question": "钢件的硬度高，难以进行切削，钢件的硬度越低，越容易切削加工",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 411,
+    "type": "true_false",
+    "question": "滚动轴承钢是高碳钢",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 412,
+    "type": "true_false",
+    "question": "钟式百分表（千分表）测杆轴线与被测工件表面必须垂直，否则会产生测量误差",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 413,
+    "type": "true_false",
+    "question": "使用低频信号发生器可以产生15MHz的正弦波信号",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 414,
+    "type": "true_false",
+    "question": "改变电磁铁中电流的大小可以改变电磁铁的南北极",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 415,
+    "type": "true_false",
+    "question": "共析钢中碳的质量分数为0.77%",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 416,
+    "type": "true_false",
+    "question": "过盈配合零件表面粗糙度值应该选小为好",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 417,
+    "type": "true_false",
+    "question": "工件定位时，若夹具上的定位点不足六个，则肯定不会出现重复定位",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 418,
+    "type": "true_false",
+    "question": "并网逆变器的通信端子中3号、4号端子可以与双向电能表的RS485通信线并联",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 419,
+    "type": "true_false",
+    "question": "T10钢的平均含碳量为10%",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 420,
+    "type": "true_false",
+    "question": "刀具磨损分为初期磨损、正常磨损、急剧磨损三种形式",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 421,
+    "type": "true_false",
+    "question": "整流电路可将正弦电压变为脉动直流电压",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 422,
+    "type": "true_false",
+    "question": "用内径百分表测量内孔时，必须摆动内径百分表，所得最大尺寸是孔的实际尺寸",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 423,
+    "type": "true_false",
+    "question": "将\"30μF、50V\"和\"5μF、25V\"的两个电容器并联，那么电容器组的额定工作电压为50V",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 424,
+    "type": "true_false",
+    "question": "金属在静载荷作用下抵抗塑性变形的能力称为强度",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 425,
+    "type": "true_false",
+    "question": "形位公差用于限制零件的尺寸误差",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 426,
+    "type": "true_false",
+    "question": "火灾逃跑时，遇到浓烟，应直立行走",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 427,
+    "type": "true_false",
+    "question": "按输出量种类可分成模拟式传感器和数字式传感器",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 428,
+    "type": "true_false",
+    "question": "泄露电流实验可在任何环境条件下进行",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 429,
+    "type": "true_false",
+    "question": "一批工件在夹具中的位置不一致，使加工后各工件的加工尺寸存在误差，这种误差称为安装误差",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 430,
+    "type": "true_false",
+    "question": "接触电动势的大小与导体的电子密度和两端温度有关",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 431,
+    "type": "true_false",
+    "question": "金属结晶时会放出结晶潜热，所以结晶时的温度会升高",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 432,
+    "type": "true_false",
+    "question": "PLC输出类型有继电器、三极管、双向晶闸管三种",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 433,
+    "type": "true_false",
+    "question": "淬火后的钢，回火时随温度的变化组织会发生不同的转变",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 434,
+    "type": "true_false",
+    "question": "JK触发器的初始状态为0，当CP到来时，触发器状态变为1，说明触发器实现置1功能",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 435,
+    "type": "true_false",
+    "question": "交流接触器的额定电流，是在额定的工作条件下所决定的电流值",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 436,
+    "type": "true_false",
+    "question": "用指针式万用表测某二极管的正向电阻时，插在万用表标有\"+\"号插孔中的测试棒（通常是红色棒）所连接的管脚是正极，另一极是负极",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 437,
+    "type": "true_false",
+    "question": "霍尔元件的不等位电动势是霍尔零位误差中最主要的一种",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 438,
+    "type": "true_false",
+    "question": "通常情况下含碳量越高，钢的强度、硬度越高，而塑性、韧性越低",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 439,
+    "type": "true_false",
+    "question": "磁场跟电场一样，具有力和能的性质",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 440,
+    "type": "true_false",
+    "question": "渗碳体是铁与碳的混合物",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 441,
+    "type": "true_false",
+    "question": "为了辨别差分变压器的衔铁的移动方向，可采用相敏检波电路",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 442,
+    "type": "true_false",
+    "question": "在全波桥式整流电容滤波电路与半波整流电容滤波电路中，每个二极管承受的反向电压相同",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 443,
+    "type": "true_false",
+    "question": "T10钢与10钢的含碳量相同",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 444,
+    "type": "true_false",
+    "question": "弹性变形不能随载荷的去除而消失",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 445,
+    "type": "true_false",
+    "question": "用锥度塞规检查内锥孔时，如果大端接触而小端未接触，说明内锥孔锥角过大",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 446,
+    "type": "true_false",
+    "question": "热电动势的大小与热电极材料、尺寸和结点温度有关",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 447,
+    "type": "true_false",
+    "question": "布氏硬度试验法适合于成品的硬度测量",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 448,
+    "type": "true_false",
+    "question": "非晶体具有各向同性的特点",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 449,
+    "type": "true_false",
+    "question": "放大-检波式电子电压表中的放大电路一般采用多级宽带交流放大器，所以其灵敏度很高",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 450,
+    "type": "true_false",
+    "question": "通常采用瞬时极性法来判别引入的是正反馈还是负反馈",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 451,
+    "type": "true_false",
+    "question": "熔体的额定电流不可大于熔断器的额定电流",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 452,
+    "type": "true_false",
+    "question": "感应加热表面淬火时，频率越高，加热越快",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 453,
+    "type": "true_false",
+    "question": "并网逆变器只有当直流输入电压大于80V后才会启动",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 454,
+    "type": "true_false",
+    "question": "洛氏硬度值是根据压头压入被测定材料的压痕深度得出的",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 455,
+    "type": "true_false",
+    "question": "将\"6μF、30V\"和\"6μF、50V\"的两个电容器并联，并联后的总耐压为30V",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 456,
+    "type": "true_false",
+    "question": "原理误差是由于采用了近似的加工运动或者近似的刀具轮廓而产生的",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 457,
+    "type": "true_false",
+    "question": "QFP封装矩形四边都有电极引脚的SMD集成电路",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 458,
+    "type": "true_false",
+    "question": "PTC热敏电阻器常用于彩色电视机的消磁电路中",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 459,
+    "type": "true_false",
+    "question": "触发器的真值表、逻辑函数表达式以及对应的输入输出波形都能表示触发器的功能，且表示触发器的逻辑功能完全一致",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 460,
+    "type": "true_false",
+    "question": "一般硬度高的材料，强度也较高",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 461,
+    "type": "true_false",
+    "question": "最大显示数字为9999和19999的数字电压表均为四位数字电压表",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 462,
+    "type": "true_false",
+    "question": "合金钢的牌号中一定包含有至少一个合金元素符号",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 463,
+    "type": "true_false",
+    "question": "兆欧表的选择应根据测量要求选择额定电压值和测量范围",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 464,
+    "type": "true_false",
+    "question": "所有金属材料在拉伸实验时都会出现显著的屈服现象",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 465,
+    "type": "true_false",
+    "question": "在光电二极管的PN结处，通过管壳上的玻璃窗口能接收外部的光照",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 466,
+    "type": "true_false",
+    "question": "家庭安装的电表是测量电功率的仪表",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 467,
+    "type": "true_false",
+    "question": "常用的塑性材料在使用时，一般不允许有塑性变形",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 468,
+    "type": "true_false",
+    "question": "对于不同的CNC控制器，编辑软件需要使用不同的后置处理程序",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 469,
+    "type": "true_false",
+    "question": "框式水平仪可以用比较测量法和绝对测量法来检验工件表面的水平度和垂直度",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 470,
+    "type": "true_false",
+    "question": "将\"6μF、100V\"和\"3μF、250V\"的两个电容器并联，则并联后的总电容为4.5μF",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 471,
+    "type": "true_false",
+    "question": "用塞规可以直接测量出孔的实际尺寸",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 472,
+    "type": "true_false",
+    "question": "零件的机械加工质量包括加工精度和表面质量两部分",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 473,
+    "type": "true_false",
+    "question": "三视图的投影规律是：主视图与俯视图宽相等；主视图与左视图高平齐；俯视图与左视图长对正",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 474,
+    "type": "true_false",
+    "question": "电压源和电流源等效变换前后电源内部是不等效的",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 475,
+    "type": "true_false",
+    "question": "同一工作条件下，输入量按同一方向在全测量范围内，连续变动多次所得特性曲线的不一致称之为重复性",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 476,
+    "type": "true_false",
+    "question": "用模拟电子电压表来测量非正弦波电压时，为了减少测量误差最好选用峰值型",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 477,
+    "type": "true_false",
+    "question": "若需观测一个信号波形的情况，应选多踪电子示波器",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 478,
+    "type": "true_false",
+    "question": "三相四线制供电，中线的作用是保证负载不对称时，相电流对称",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 479,
+    "type": "true_false",
+    "question": "Q215钢适用于制造桥梁、船舶等",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 480,
+    "type": "true_false",
+    "question": "重复接地可以加速线路保护装置的动作，缩短漏电故障持续时间",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 481,
+    "type": "true_false",
+    "question": "湿敏电阻的电阻值随着环境绝对湿度的变化而变化",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 482,
+    "type": "true_false",
+    "question": "配合公差的数值愈小，则相互配合的孔、轴的尺寸精度等级愈高",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 483,
+    "type": "true_false",
+    "question": "通电线圈在磁场中的受力方向，可以用左手定则判定，也可以用楞次定律判定",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 484,
+    "type": "true_false",
+    "question": "为获得准确的测量结果，在进行电压测量时，模拟示波器不一定要将Y轴增益\"微调\"置校准，但其位置一经确定不得更动",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 485,
+    "type": "true_false",
+    "question": "由于铸铁中存在过多的渗碳体，其脆性大，所以较少直接使用",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 486,
+    "type": "true_false",
+    "question": "钢中随着碳质量分数由小到大，渗碳体量逐渐增多，铁素体量逐渐减少，铁碳合金的硬度越来越高，而塑性、韧性越来越低",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 487,
+    "type": "true_false",
+    "question": "熔断器的特性，是通过熔体的电压值越高，熔断时间越短",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 488,
+    "type": "true_false",
+    "question": "单轴供电单元通过航空线缆将温湿度和光照度数据传送到柔性工位",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 489,
+    "type": "true_false",
+    "question": "由于测量人员的操作不当引起的误差可以归纳为人身误差",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 490,
+    "type": "true_false",
+    "question": "绝缘体两端的电压无论再高，都不可能通过电流",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 491,
+    "type": "true_false",
+    "question": "触电者昏迷后，可以猛烈摇晃其身体，使之尽快复苏",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 492,
+    "type": "true_false",
+    "question": "差动变压器不仅可以直接用于位移测量，而且还可以测量和位移有关的机械量",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 493,
+    "type": "true_false",
+    "question": "弹性变形不能随载荷的去除而消失",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 494,
+    "type": "true_false",
+    "question": "逻辑函数式的化简方法只有公式法",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 495,
+    "type": "true_false",
+    "question": "内径百分表属于比较测量法，可测量孔的形状误差，与外径千分尺配合使用时可测量孔的实际尺寸",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 496,
+    "type": "true_false",
+    "question": "有效频率范围是指各项指标都能得到保证的输出信号频率范围",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 497,
+    "type": "true_false",
+    "question": "淬火冷却速度越大，钢淬火后的硬度越高，因此淬火的冷却速度越快越好",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 498,
+    "type": "true_false",
+    "question": "金属在固态下具有同素异构转变",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 499,
+    "type": "true_false",
+    "question": "由于锰、硅都是有益元素，适当增加其含量，能提高钢的强度",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 500,
+    "type": "true_false",
+    "question": "做布氏硬度试验时，在相同试验条件下，压痕直径越小说明材料的硬度越低",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 501,
+    "type": "true_false",
+    "question": "加工脆性材料不会产生积屑瘤",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 502,
+    "type": "true_false",
+    "question": "当剖切平面通过机件的肋和薄壁等结构的厚度对称平面（即纵向剖切）时，这些结构按不剖绘制",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 503,
+    "type": "true_false",
+    "question": "在非安全电压下作业时，应尽可能双手操作，并应站在绝缘胶垫上",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 504,
+    "type": "true_false",
+    "question": "瓷片电容器标有\"103\"字样，则其标称容量为103μF",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 505,
+    "type": "true_false",
+    "question": "碳在γ-Fe中的溶解度比α-Fe中的溶解度低",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 506,
+    "type": "true_false",
+    "question": "只要不影响工件的加工精度，不完全定位是允许的",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 507,
+    "type": "true_false",
+    "question": "金属在外力作用下产生的变形都不能恢复",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 508,
+    "type": "true_false",
+    "question": "通常说钢比铸铁抗拉强度高，是指单位截面积的承力能力前者高，后者低",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 509,
+    "type": "true_false",
+    "question": "从过载角度出发，规定了熔断器的额定电压",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 510,
+    "type": "true_false",
+    "question": "内外径千分尺使用时应该用手握住隔热装置，同时注意内外径千分尺和被测工作具有相同的温度",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 511,
+    "type": "true_false",
+    "question": "纯电感电路中电压超前电流90°",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 512,
+    "type": "true_false",
+    "question": "中碳钢的含碳量在0.25%~0.60%之间",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 513,
+    "type": "true_false",
+    "question": "晶体管输出的PLC可以直接驱动交流负载",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 514,
+    "type": "true_false",
+    "question": "剖面图要画在视图以外，一般配置在剖切位置的延长线上，有时可以省略标注",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 515,
+    "type": "true_false",
+    "question": "如果在磁场的某一区域里，磁感应强度的大小和方向都相同，这个区域就称为匀强磁场",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 516,
+    "type": "true_false",
+    "question": "共射极放大电路对输入信号不仅有电流放大作用还有电压放大作用",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 517,
+    "type": "true_false",
+    "question": "所谓共晶转变，是指一定成分的液态合金，在一定的温度下同时结晶出两种不同相的转变",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 518,
+    "type": "true_false",
+    "question": "在电容滤波电路中，电容器应与负载并联",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 519,
+    "type": "true_false",
+    "question": "在相同的回火温度下，合金钢比同样含碳量的碳素钢具有更高的硬度",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 520,
+    "type": "true_false",
+    "question": "电路中各点电位的高低与参考点的选取有关",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 521,
+    "type": "true_false",
+    "question": "在热电偶回路中接入第三种材料的导体，不会对总的热电动势有影响",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 522,
+    "type": "true_false",
+    "question": "零件图未注出公差的尺寸，就是没有公差要求的尺寸",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 523,
+    "type": "true_false",
+    "question": "轴杆类零件的毛坯一般采用铸造制成",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 524,
+    "type": "true_false",
+    "question": "通常材料越软，塑性越好，它的切削性能也越好",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 525,
+    "type": "true_false",
+    "question": "发光二极管可作为光电池使用",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 526,
+    "type": "true_false",
+    "question": "在金属切削过程中都会产生积屑瘤",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 527,
+    "type": "true_false",
+    "question": "铸铁的铸造性能好，故常用来铸造形状复杂的工作",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 528,
+    "type": "true_false",
+    "question": "当功放器件启动输出后，请勿直接接触输出端子的金属部分或与之相连的导体",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 529,
+    "type": "true_false",
+    "question": "用无源元件组成电路（如LC谐振电路）也能将电压或电流幅度变大，因此也能组成放大电路",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 530,
+    "type": "true_false",
+    "question": "磁感应强度是矢量，但磁场强度是标量，这是两者之间的根本区别",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 531,
+    "type": "true_false",
+    "question": "用均值电压表测量正弦波电压，其示值就是被测电压的平均值",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 532,
+    "type": "true_false",
+    "question": "接地体是指埋入地面以下直接与大地接触的金属导体",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 533,
+    "type": "true_false",
+    "question": "任何两个彼此绝缘的带电导体之间都存在电容",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 534,
+    "type": "true_false",
+    "question": "为了尽量减小电子电压表的接入对电路影响，要求电子电压表的输入电阻尽量小，输入电容尽量大",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 535,
+    "type": "true_false",
+    "question": "数字多用表能反映被测量的连续变化过程及变化趋势",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 536,
+    "type": "true_false",
+    "question": "金属弹性变形后其组织和性能将发生变化",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 537,
+    "type": "true_false",
+    "question": "吸锡器主要用来拆卸元器件",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 538,
+    "type": "true_false",
+    "question": "断路器在选用时，要求线路末端单相对地短路电流要大于或等于1.25倍断路器的瞬时脱扣器整定电流",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 539,
+    "type": "true_false",
+    "question": "影响疲劳极限的主要因素是应力集中、零件尺寸和表面质量等。零件尺寸越大，零件疲劳强度越低；表面质量越差，应力集中越严重，越容易出现塑性变形",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 540,
+    "type": "true_false",
+    "question": "Φ70F6的含义是基轴制的孔，公差等级为IT6",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 541,
+    "type": "true_false",
+    "question": "因为毛坯表面的重复定位精度差，所以粗基准一般只能使用一次",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 542,
+    "type": "true_false",
+    "question": "为了避免交越失真，在实际使用的OCL电路中，必须设置合适的静态工作点",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 543,
+    "type": "true_false",
+    "question": "随着过冷度的增加，过冷奥氏体的珠光体型转变产物越来越细，其强度越来越高",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 544,
+    "type": "true_false",
+    "question": "电感器在电路中用字母L表示，单位有H（亨利）、mH（毫亨）和μH（微亨）",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 545,
+    "type": "true_false",
+    "question": "机床主轴的深孔加工应安排在粗车外圆之后进行",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 546,
+    "type": "true_false",
+    "question": "结晶时冷却速度越快，则结晶出的晶粒就越粗",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 547,
+    "type": "true_false",
+    "question": "按钮的文字符号为FU",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 548,
+    "type": "true_false",
+    "question": "韧性是指金属在断裂前吸收变形能量的能力",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 549,
+    "type": "true_false",
+    "question": "通过热处理可以改变铸铁中石墨的形状，从而改变性能",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 550,
+    "type": "true_false",
+    "question": "越靠近传动链前端的传动件的传动误差，对加工精度影响越大",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 551,
+    "type": "true_false",
+    "question": "钢和铸铁都是以铁碳为主的合金",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 552,
+    "type": "true_false",
+    "question": "光敏电阻的光照特性为线性，因此可以用于光的精密测量",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 553,
+    "type": "true_false",
+    "question": "在金属切削过程中，积屑瘤的产生与切削速度无关",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 554,
+    "type": "true_false",
+    "question": "淬火+低温回火的热处理工艺称为调质处理",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 555,
+    "type": "true_false",
+    "question": "在液压系统中，液压泵是将机械能转换为液压能的能量转换元件",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 556,
+    "type": "true_false",
+    "question": "PLC的扫描工作方式是串行方式",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 557,
+    "type": "true_false",
+    "question": "在光伏发电系统中，MPPT是指最大功率点跟踪技术",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 558,
+    "type": "true_false",
+    "question": "钢中硫元素能提高钢的切削性能",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 559,
+    "type": "true_false",
+    "question": "在数控编程中，G00指令表示快速定位",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 560,
+    "type": "true_false",
+    "question": "滚动轴承的精度等级分为P0、P6、P5、P4、P2，其中P0精度最高",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 561,
+    "type": "true_false",
+    "question": "在机械制图中，剖视图的剖面线应画成45度细实线",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 562,
+    "type": "true_false",
+    "question": "在PLC编程中，定时器T0的定时精度为100ms",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 563,
+    "type": "true_false",
+    "question": "在金属材料热处理中，正火的冷却速度比退火快",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 564,
+    "type": "true_false",
+    "question": "在液压系统中，溢流阀的主要作用是稳压溢流",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 565,
+    "type": "true_false",
+    "question": "在电气控制电路中，自锁电路可以实现电动机的连续运行",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  },
+  {
+    "id": 566,
+    "type": "true_false",
+    "question": "在光伏发电系统中，逆变器的作用是将直流电转换为交流电",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  }
+]
